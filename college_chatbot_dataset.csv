@@ -1,0 +1,947 @@
+Question,Response
+hi,Hello! How can I assist you today?
+hello,Hi there! How can I help?
+how are you,"I'm doing great, thank you for asking! How about you?"
+what's up?,Not much! Just here to help you out. What can I do for you today?
+good morning,Good morning! How can I assist you today?
+good evening,Good evening! How can I help you today?
+how is the weather today?,"I'm not sure about the weather right now, but you can check it online."
+bye,exit
+thank you,You're welcome! Feel free to ask if you have any more questions.
+sorry,No problem! Let me know if there's anything I can assist with.
+can you help me with something?,Of course! What do you need help with?
+what is your name?,I am your virtual assistant. You can call me Chatbot!
+what can you do?,"I can help you with information, provide answers, and assist you with your questions."
+what is your favorite color?,"I don't have a favorite color, but I think blue looks nice!"
+where are you from?,"I'm a virtual assistant, so I exist in the cloud! I don't have a physical location."
+how old are you?,"I don't age like humans do, but I'm always here to help you!"
+How can I get admission to the First Year B.E. programs at SMVITM?,"Admission to the First Year B.E. programs at SMVITM can be obtained through CET (KEA), COMED-K, or Management Quota."
+What is the CET code for SMVITM?,The CET code for SMVITM is E206.
+How can I get admission through CET at SMVITM?,"To get admission through CET at SMVITM, students must appear for the Common Entrance Test (CET) conducted by Karnataka Examination Authority (KEA). Seats are allocated based on the CET merit list. For more details, visit the KEA website at www.kea.kar.nic.in"
+How can I get admission through COMED-K at SMVITM?,"Admission through COMED-K requires students to take the COMED-K Entrance Test. The seat selection process is based on COMED-K's allotment procedures. For more information, refer to www.comedk.org."
+Can I get admission through the Management Quota at SMVITM?,"Yes, students seeking admission through Management Quota can directly approach the college office."
+What are the eligibility criteria for admission to the First Year B.E. at SMVITM?,"Candidates should have passed II PUC / 12th Std. / Equivalent Exam with English as one of the subjects and must have obtained a minimum of 45% marks in aggregate in Physics, Mathematics, and one of Chemistry / Bio-Technology / Biology / Electronics / Computer."
+How can I get admission to the Second Year B.E. program at SMVITM?,Students who have completed a three-year diploma course in the relevant specialization can join the Second Year B.E. program through the lateral entry scheme. They must apply for the Diploma Common Entrance Test (DCET) conducted by KEA and participate in the seat allotment process. More details are available on the DCET page of www.kea.kar.nic.in.
+What are the bank details for payment of the application fee at SMVITM?,"Bank Name: HDFC Bank, Branch: Shirva, Account Name: Shri Madhwa Vadiraja Institute of Technology & Management, Account No: 50100303818541, IFSC Code: HDFC0009540."
+What is the address of SMVITM?,"Shri Madhwa Vadiraja Institute of Technology and Management, Vishwothama Nagar, Bantakal, Udupi � 574 115, Karnataka, India. Tel: +91 9611615001."
+What is the email ID of SMVITM for general inquiries?,The email ID for general inquiries at SMVITM is info@sode-edu.in.
+what time is it?,"Sorry, I don't have access to the current time. Please check your device."
+What is the address of the Management (Trust) Office of SMVITM?,"Shri Sode Vadiraja Mutt Education Trust, Bhoovaraha Complex, Car Street, Udupi- 576101. Tel: +91-820-4294005, Fax: +91-820-4294006, Email: trust@sode-edu.in."
+Which departments are available at the college?,The available departments are Civil Engineering Computer Science and Engineering Artificial Intelligence and Data Science Artificial Intelligence and Machine Learning Electronics and Communication Engineering Mechanical Engineering MBA.
+How can I contact the college for admission?,"You can email at info@sode-edu.in or call the landline at 0820-2589182, 183, 184. For WhatsApp inquiries, contact +91 9611615001."
+What courses are available for admission?,"The courses available are Artificial Intelligence and Data Science, Artificial Intelligence and Machine Learning, Civil Engineering, Computer Science & Engineering, Electronics & Communication Engineering, Mechanical Engineering, and MBA."
+What is the placement scenario at SMVITM?,"Over 180+ companies visit the campus, and 1200+ students have received placement offers."
+How many companies visit for placements at SMVITM?,180+ companies visit the campus for placements
+Who is the Head of the Artificial Intelligence and Data Science Department?,Mr. Nagaraja Rao is the Associate Professor and HOD (In-Charge) of the department.
+Who are the faculty members in the Artificial Intelligence and Data Science Department?,"The faculty members include:
+- Mr. Nagaraja Rao (Associate Professor and HOD, In-Charge)
+- Dr. Ranjan Kumar H. S. (Associate Professor)
+- Dr. Vighnesh Shenoy (Assistant Professor)
+- Ms. Vandana U (Assistant Professor)
+- Mr. Balachandra Jogi (Assistant Professor)
+- Mr. Sarvesh S. Rao (Assistant Professor)
+- Mr. Rajesh Nayak (Associate Professor)"
+Who are the non-teaching staff in the AI-ML & AI-DS Department?,"The non-teaching staff includes:
+- Mrs. Chithrakala Shetty (Programmer)
+- Mr. Yogeesh (Office Assistant)
+- Mrs. Prajyothi (Attender)
+- Ms. Bhoomika (Lab Instructor)
+- Ms. Nishali (Lab Instructor)"
+What is the role of Mrs. Chithrakala Shetty?,Mrs. Chithrakala Shetty is a Programmer in the AI-ML & AI-DS Department with 14 years of experience.
+What is the role of Mr. Yogeesh?,Mr. Yogeesh is an Office Assistant in the AI-ML & AI-DS Department with 2 years of experience.
+What is the role of Mrs. Prajyothi?,Mrs. Prajyothi is an Attender in the AI-ML & AI-DS Department with 2 years of experience.
+What is the role of Ms. Bhoomika?,Ms. Bhoomika is a Lab Instructor in the AI-ML & AI-DS Department with 6 months of experience.
+What is the role of Ms. Nishali?,Ms. Nishali is a Lab Instructor in the AI-ML & AI-DS Department with 6 months of experience.
+Where is the AI-ML & AI-DS Department located?,"The AI-ML & AI-DS Department is located at Shri Madhwa Vadiraja Institute of Technology and Management, Vishwothama Nagar, Bantakal, Udupi – 574 115, Karnataka, India."
+How can I contact the AI-ML & AI-DS Department?,You can contact the AI-ML & AI-DS Department at +91 7483031199 or +91 7483031200.
+In which department does Mr. Nagaraja Rao work?,Mr. Nagaraja Rao works in the Department of Artificial Intelligence and Data Science.
+What is Dr. Ranjan Kumar H. S.'s designation?,Dr. Ranjan Kumar H. S. is an Associate Professor in the Department of Artificial Intelligence and Data Science.
+What is Dr. Ranjan Kumar H. S.'s teaching experience?,Dr. Ranjan Kumar H. S. has 14 years and 6 months of teaching experience.
+What is Dr. Ranjan Kumar H. S.'s phone number?,Dr. Ranjan Kumar H. S. can be contacted at +91 8123918559.
+What is Dr. Ranjan Kumar H. S.'s email address?,Dr. Ranjan Kumar H. S.'s email address is ranjan.cs@sode-edu.in.
+What are Dr. Ranjan Kumar H. S.'s educational qualifications?,"Dr. Ranjan Kumar H. S. holds a B.E. in Information Science and Engineering, an M. Tech. in Computer Science and Engineering, and a Ph.D. in Cyber Security & Cryptography."
+What are Dr. Ranjan Kumar H. S.'s areas of specialization?,"Dr. Ranjan Kumar H. S. specializes in Artificial Intelligence, Cyber Security, Cryptography, and Information Security."
+What is Dr. Ranjan Kumar H. S.'s research experience?,Dr. Ranjan Kumar H. S. has 7 years and 4 months of research experience.
+Where can I find more information about Dr. Ranjan Kumar H. S.?,More information about Dr. Ranjan Kumar H. S. can be found at https://sode-edu.in/mr-ranjan-kumar-h-s/.
+What is Dr. Vighnesh Shenoy's designation?,Dr. Vighnesh Shenoy is an Assistant Professor in the Department of Artificial Intelligence and Data Science.
+What is Dr. Vighnesh Shenoy's phone number?,Dr. Vighnesh Shenoy can be contacted at +91 9972131077.
+What is Dr. Vighnesh Shenoy's email address?,Dr. Vighnesh Shenoy's email address is vighneshshenoy.ec@sode-edu.in.
+Where can I find more information about Dr. Vighnesh Shenoy?,More information about Dr. Vighnesh Shenoy can be found at https://sode-edu.in/dr-vighnesh-shenoy/.
+What are Dr. Vighnesh Shenoy's educational qualifications?,"Dr. Vighnesh Shenoy holds a Ph.D., M. Tech, and B.E. in his respective fields."
+What are Dr. Vighnesh Shenoy's areas of specialization?,Dr. Vighnesh Shenoy specializes in areas related to Artificial Intelligence and Data Science.
+What is Dr. Vighnesh Shenoy's industry experience?,Dr. Vighnesh Shenoy has 1.5 years of industry experience.
+What is Dr. Vighnesh Shenoy's teaching experience?,Dr. Vighnesh Shenoy has 5 years and 3 months of teaching experience.
+What is Ms. Vandana U's designation?,Ms. Vandana U is an Assistant Professor in the Department of Artificial Intelligence and Data Science.
+In which department does Ms. Vandana U work?,Ms. Vandana U works in the Department of Artificial Intelligence and Data Science.
+What is Ms. Vandana U's phone number?,Ms. Vandana U can be contacted at +91 820 2589182 or +91 820 2589183.
+What is Ms. Vandana U's email address?,Ms. Vandana U's email address is vandana.cs@sode-edu.in.
+Where can I find more information about Ms. Vandana U?,More information about Ms. Vandana U can be found at https://sode-edu.in/ms-vandana-u/.
+What are Ms. Vandana U's educational qualifications?,Ms. Vandana U holds a B.E. and M. Tech.
+What are Ms. Vandana U's areas of specialization?,"Ms. Vandana U specializes in Data Science, Cyber Security, and Cloud Computing."
+What is Ms. Vandana U's teaching experience?,Ms. Vandana U has 6 years and 11 months of teaching experience.
+What is Ms. Vandana U's industry experience?,Ms. Vandana U has 1 year of industry experience.
+What are Ms. Vandana U's areas of interest?,"Ms. Vandana U is interested in Data Science, Cyber Security, and Cloud Computing."
+What is Mr. rajesh nayak's designation?,Mr.rajesh nayak is an Assistant Professor in the Department of Artificial Intelligence and Data Science.
+What is Mr. rajesh nayak's phone number?,Mr. rajesh nayak can be contacted at +91 9164510062
+In which department does Mr. rajesh nayak work?,Mr.rajesh nayak works in the Department of Artificial Intelligence and Data Science.
+What is Mr. rajesh nayak's email address?,Mr.rajesh nayak's email address is rajesh.ds@sode-edu.in.
+Where can I find more information about Mr.rajesh nayak?,More information about Mr.rajesh nayak can be found at https://sode-edu.in/faculties/rajesh-nayak/#
+What are Mr. rajesh nayak's educational qualifications?,Mr.rajesh nayak holds a B.E. and M. Tech (ph.D)
+What are Mr. rajesh nayak's areas of specialization?,not available
+What is Mr. rajesh nayak's teaching experience?,Mr.rajesh nayak has teaching experience.
+What is Mr. rajesh nayak's industry experience?,not available
+What are Mr. rajesh nayak's areas of interest?,"Mr.rajesh nayak is interested in Data Science, data analytics using ML/DL."
+What is Mr. Sarvesh Rao's designation?,Mr Sarvesh S Rao is an Assistant Professor in the Department of Artificial Intelligence and Data Science.
+In which department does Mr. Sarvesh Rao work?,Mr Sarvesh S Rao works in the Department of Artificial Intelligence and Data Science.
+What is Mr. Sarvesh Rao's phone number?,Mr Sarvesh S Rao can be contacted at +91 78920 27473
+What is Mr. Sarvesh Rao's industry experience?,not available
+What is Mr. Sarvesh Rao's email address?,Mr Sarvesh S Rao's email address is sarvesh.ds@sode-edu.in
+Where can I find more information about Mr sarvesh s Rao?,More information about Mr Sarvesh Rao can be found at https://sode-edu.in/faculties/mr-sarvesh-s-rao/#
+What are Mr. Sarvesh Rao's educational qualifications?,Mr Sarvesh S Rao holds a B.E. and M. Tech.
+What are Mr. Sarvesh Rao's areas of specialization?,not available
+What is Mr. Sarvesh Rao's teaching experience?,Mr Sarvesh Rao has teaching experience.
+What are Mr. Sarvesh S Rao's areas of interest?,not available
+What is Mr. Balachandra Jogi's designation?,Mr. Balachandra Jogi is an Assistant Professor in the Department of Artificial Intelligence and Data Science
+In which department does Mr. Balachandra Jogi work?,Mr. Balachandra Jogi works in the Department of Artificial Intelligence and Data Science.
+What is Mr. Balachandra Jogi's phone number?,Mr. Balachandra Jogi can be contacted at +91 8762763369.
+What is Mr. Balachandra Jogi's email address?,Mr. Balachandra Jogi's email address is balachandra.cs@sode-edu.in.
+What is Mr. Nagaraja Rao's designation?,Mr. Nagaraja Rao is the Associate Professor and HOD (In-Charge) of the Department of Artificial Intelligence and Data Science.
+What is Mr. Nagaraja Rao's phone number?,Mr. Nagaraja Rao can be contacted at +91 9945357819.
+What is Mr. Nagaraja Rao's email address?,Mr. Nagaraja Rao's email address is bnagarajrao.ec@sode-edu.in.
+Where can I find more information about Mr. Nagaraja Rao?,More information about Mr. Nagaraja Rao can be found at https://sode-edu.in/mr-nagaraja-rao-2/.
+Where can I find more information about Mr. Balachandra Jogi?,More information about Mr. Balachandra Jogi can be found at https://sode-edu.in/mr-balachandra-jogi/.
+What are Mr. Balachandra Jogi's educational qualifications?,Mr. Balachandra Jogi holds an M. Tech in Computer Applications in Industrial Drives and a B.E. in Electrical and Electronics Engineering (EEE)
+What are Mr. Balachandra Jogi's areas of specialization?,"Mr. Balachandra Jogi specializes in Digital Design and DFT, Microcontrollers ATMEGA 328, Internet of Things, Power Electronics applications to drives, and Embedded Systems."
+What is Mr. Balachandra Jogi's teaching experience?,Mr. Balachandra Jogi has 1 year and 2 months of teaching experience.
+What is Mr. Balachandra Jogi's industry experience?,Mr. Balachandra Jogi has 2 years of industry experience.
+What are Mr. Balachandra Jogi's areas of interest?,"Mr. Balachandra Jogi is interested in Power Electronics applications to Photovoltaics, Internet of Things, AC and DC Machines, and Design for Testing (DFT) in VLSI."
+What is Dr. Mamata I's designation?,Dr.Mamata I is an Associate Professor and HOD in the Department of Artificial Intelligence and Machine learning
+In which department does Dr. Mamata I work?,Dr Mamata I works in the Department of Artificial Intelligence and Machine learning.
+What is Dr. Mamata I's phone number?,Dr. Mamata I can be contacted at +91 9108289466.
+What is Dr. Mamata I's email address?,Dr. Mamata I's email address is mamatha.ml@sode-edu.in.
+Where can I find more information about Dr. Mamata I?,More information about Dr. Mamata I can be found at https://sode-edu.in/faculties/dr-mamatha-i/.
+What are Dr. Mamata I's educational qualifications?,"Dr. Mamata I holds a B.E., M. Tech, and Ph.D."
+What are Dr. Mamata I's areas of specialization?,"Dr. Mamata I is interested in Algorithms and VLSI Architectures for Signal/Image Processing Applications, Soft Robotics, Wireless Power Transfer, and Hardware Accelerators for Machine Learning Algorithms."
+What is Dr. Mamata I's teaching experience?,Dr. Mamata I has teaching experience.
+What is Dr. Mamata I's industry experience?,not available
+What are Dr. Mamata I's areas of interest?,"Dr. Mamata I is interested in Algorithms and VLSI Architectures for Signal/Image Processing Applications, Soft Robotics, Wireless Power Transfer, and Hardware Accelerators for Machine Learning Algorithms."
+What is Dr. Ganesha Prasad's designation?,Dr. Ganesha Prasad's designation is Assistant Professor.
+In which department does Dr. Ganesha Prasad work?,Dr. Ganesha Prasad' works in Artificial Intelligence and Machine Learning.
+What is Dr. Ganesha Prasad's phone number?,Dr. Ganesha Prasad's email address is sganeshaprasad.ml@sode-edu.in
+What is Dr. Ganesha Prasad's email address?,Dr. Ganesha Prasad's email address is sganeshaprasad.ml@sode-edu.in.
+Where can I find more information about Dr. Ganesha Prasad?,More information about Dr. Ganesha Prasad can be found at https://sode-edu.in/faculties/mr-ganesh-prasad/#.
+What are Dr. Ganesha Prasad's educational qualifications?,"Dr. Ganesha Prasad holds a B.E., M.Tech, and Ph.D"
+What are Dr. Ganesha Prasad's areas of specialization?,"Dr. Ganesha Prasad specializes in Machine Learning, Deep Learning, Image Processing, and Data Science."
+What is Dr. Ganesha Prasad's teaching experience?,Dr. Ganesha Prasad has 4.5 years and 8 months of teaching experience.
+What is Dr. Ganesha Prasad's industry experience?,not available
+What are Dr. Ganesha Prasad's areas of interest?,Dr. Ganesha Prasad is interested in Deep Learning.
+What is Dr. Rashmi Samanth's designation?,Dr. Rashmi Samanth's designation is Assistant Professor (SG) in Artificial Intelligence and Machine Learning.
+In which department does Dr. Rashmi Samanth work?,Dr. Rashmi Samanth works in Artificial Intelligence and Machine Learning.
+What is Dr. Rashmi Samanth's email address?,Dr. Rashmi Samanth's email address is rashmi.ml@sode-edu.in
+What is Dr. Rashmi Samanth's phone number?,not available
+Where can I find more information about Dr. Rashmi Samanth?,More information about Dr. Rashmi Samanth can be found at https://sode-edu.in/faculties/dr-rashmi-samanth/#.
+What are Dr. Rashmi Samanth's educational qualifications?,"Dr. Rashmi Samanth holds a Ph.D. (VLSI), M.Tech. (VLSI Design), and B.E. (Electronics and Communication Engineering)."
+What are Dr. Rashmi Samanth's areas of specialization?,Dr. Rashmi Samanth specializes in Low Power VLSI.
+What is Dr. Rashmi Samanth's teaching experience?,Dr. Rashmi Samanth has 2 years and 5 months of teaching experience.
+What is Dr. Rashmi Samanth's industry experience?,Dr. Rashmi Samanth has [industry experience] of industry experience.
+What are Dr. Rashmi Samanth's areas of interest?,Dr. Rashmi Samanth is interested in VLSI and Low Power VLSI.
+What is Ms. Megha Rani's designation?,Ms. Megha Rani 's designation is Assistant Professor in the Artificial Intelligence and Machine Learning department.
+In which department does Ms. Megha Rani work?,Ms Megha Rani is an Assistant Professor in the Artificial Intelligence and Machine Learning department.
+What is Ms. Megha Rani's email address?,Ms. Megha Rani's email address is megha.cs@sode-edu.in.
+What is Ms. Megha Rani's phone number?,Ms. Megha Rani  can be contacted at +91 9611615001.
+Where can I find more information about Ms. Megha Rani?,more information about  Ms. Megha Rani can be found at https://sode-edu.in/faculties/ms-megharani/#.
+What are Ms. Megha Rani's educational qualifications?,Ms. Megha Rani holds a B.E. and M.Tech in Computer Science and Engineering.
+What are Ms. Megha Rani's areas of specialization?,Ms. Megha Rani's areas of specialization include Computer Network Engineering.
+What is Ms. Megha Rani's teaching experience?,Ms. Megha Rani has 5 years and 2 months of teaching experience.
+What is Ms. Megha Rani's industry experience?,not avilable
+What are Ms. Megha Rani's areas of interest?,"Ms. Megha Rani's areas of interest are Networking, Blockchain, Machine Learning, and Artificial Intelligence."
+What is Mrs. Ashwini K's designation?,Mrs. Ashwini K's designation is Assistant Professor in the Artificial Intelligence and Machine Learning department.
+In which department does Mrs. Ashwini K's work?,Mrs. Ashwini K is an Assistant Professor in the Artificial Intelligence and Machine Learning department.
+What is Mrs. Ashwini K's phone number?,Mrs. Ashwini K  can be contacted at +91 9611615001.
+What is Mrs. Ashwini K's email address?,Mrs. Ashwini K's email address is ashwini.ml@sode-edu.in.
+Where can I find more information about Mrs. Ashwini K?,More information about Mrs. Ashwini K can be found at https://sode-edu.in/faculties/ms-ashwini-k/#
+What are Mrs. Ashwini K's educational qualifications?,Mrs. Ashwini K holds a B.E. and M.Tech in Computer Science and Engineering.
+What is Mrs. Ashwini K's area of specialization?,Mrs. Ashwini K specializes in Computer Networks.
+How much teaching experience does Mrs. Ashwini K. have?,Mrs. Ashwini K has 5.5 years of teaching experience
+What is Mrs. Ashwini K's area of interest?,Ashwini K's areas of interest include Artificial Intelligence and Machine Learning.
+What is Mrs. Ashwini k's industry experience?,not avilable
+What is Ms. Shabana S's designation?,Ms. Shabana S is an Assistant Professor in the Department of Artificial Intelligence and Machine Learning.
+In which department does Ms. Shabana S work?,She works in the Artificial Intelligence and Machine Learning department.
+What is Ms. Shabana S's phone number?,Ms. Shabana S can be contacted at +91 9042703133.
+What is Ms. Shabana S's email address?,Ms Shabana's email address is shabana.ds@sode-edu.in.
+Where can I find more information about Ms. Shabana S?,More information about Ms Shabana S can be found at https://sode-edu.in/faculties/ms-shabana-s/#
+What are Ms. Shabana S's educational qualifications?,Ms. Shabana S holds an M.Tech degree.
+What are Ms. Shabana S's areas of specialization?,Ms Shabana's specializes in Data Structures.
+What is Ms. Shabana S's teaching experience?,"Ms Shabana's teaching experience is not specifically mentioned, but she serves as an Assistant Professor in the department."
+What is Ms. Shabana S's industry experience?,Industry experience details are not specified.
+What are Ms. Shabana S's areas of interest?,Ms Shabana's area of interest is Data Structures.
+what is Ganesh Aithal's designation?,Dr. Ganesh Aithal is a Professor and Vice Principal in the Department of Computer Science & Engineering.
+In which department does Dr. Ganesh Aithal work?,Dr. Ganesh Aithal works in the Department of Computer Science & Engineering.
+What is Dr. Ganesh Aithal's phone number?,Dr. Ganesh Aithal can be contacted at +91 9448263433.
+What is Dr. Ganesh Aithal's email address?,Dr. Ganesh Aithal's email address is viceprincipal@sode-edu.in.
+Where can I find more information about Dr. Ganesh Aithal?,More information about Dr. Ganesh Aithal can be found at https://sode-edu.in/ganesh-aithal/.
+What are Dr. Ganesh Aithal's educational qualifications?,"Dr. Ganesh Aithal holds a B.E. in Electrical Power, an M.Tech in Digital Electronics, and a Ph.D. in Electronics and Communication."
+What is Dr. Ganesh Aithal's area of specialization?,Dr. Ganesh Aithal specializes in Cryptography.
+What is Dr. Ganesh Aithal's teaching experience?,Dr. Ganesh Aithal has 35 years and 9 months of teaching experience.
+What is Dr. Ganesh Aithal's research experience?,Dr. Ganesh Aithal has 13 years and 4 months of research experience.
+What is Dr. Ganesh Aithal's industry experience?,Dr. Ganesh Aithal has 3 years of industry experience.
+What are Dr. Ganesh Aithal's areas of interest?,"Dr. Ganesh Aithal is interested in Cryptography, Soft Computation, and Business Analytics."
+What is Dr. Nagaraj Bhat's designation?,Dr. Nagaraj Bhat is a Professor and Dean (Academics) in the Department of Computer Science & Engineering.
+In which department does Dr. Nagaraj Bhat work?,Dr. Nagaraj Bhat works in the Department of Computer Science & Engineering.
+What is Dr. Nagaraj Bhat's phone number?,"Dr. Nagaraj Bhat can be contacted at +91-9964304006, Ext: 258."
+What is Dr. Nagaraj Bhat's email address?,Dr. Nagaraj Bhat's email addresses are nagarajbhat.cs@sode-edu.in and academics@sode-edu.in.
+Where can I find more information about Dr. Nagaraj Bhat?,More information about Dr. Nagaraj Bhat can be found at https://sode-edu.in/nagaraj-bhat/.
+What are Dr. Nagaraj Bhat's educational qualifications?,"Dr. Nagaraj Bhat holds a B.E., an M.Tech, and a Ph.D."
+What are Dr. Nagaraj Bhat's areas of specialization?,"Dr. Nagaraj Bhat specializes in AI Modeling, Data Science, Remote Sensing, and GIS."
+What is Dr. Nagaraj Bhat's teaching experience?,Dr. Nagaraj Bhat has 10 years and 4 months of teaching experience.
+What is Dr. Nagaraj Bhat's research experience?,Dr. Nagaraj Bhat has 13 years of research experience.
+What is Dr. Nagaraj Bhat's industry experience?,Dr. Nagaraj Bhat has 3 years of industry experience.
+What are Dr. Nagaraj Bhat's areas of interest?,Dr. Nagaraj Bhat is interested in Satellite Image Processing and Data Analytics.
+What is Dr. Soumya J. Bhat's designation?,Dr. Soumya J. Bhat is an Associate Professor and Head of the Department of Computer Science & Engineering.
+In which department does Dr. Soumya J. Bhat work?,Dr. Soumya J. Bhat works in the Department of Computer Science & Engineering.
+What is Dr. Soumya J. Bhat's phone number?,not available
+What is Dr. Soumya J. Bhat's email address?,Dr. Soumya J. Bhat's email address is soumyajbhat.cs@sode-edu.in.
+Where can I find more information about Dr. Soumya J. Bhat?,More information about Dr. Soumya J. Bhat can be found at https://sode-edu.in/soumya-j-bhat/.
+What are Dr. Soumya J. Bhat's educational qualifications?,Dr. Soumya J. Bhat holds a Ph.D.
+What is Dr. Soumya J. Bhat's area of specialization?,Dr. Soumya J. Bhat specializes in Wireless Networks.
+What is Dr. Soumya J. Bhat's teaching experience?,3 Years 6 Months
+What is Dr. Soumya J. Bhat's industry experience?,9 Years
+What are Dr. Soumya J. Bhat's areas of interest?,"IoT, Wireless Networks"
+What is Dr. Sadananda L's designation?,Dr. Sadananda L is an Associate Professor in the Department of Computer Science & Engineering.
+In which department does Dr. Sadananda L work?,Dr. Sadananda L works in the Department of Computer Science & Engineering.
+What is Dr. Sadananda L's phone number?,Dr. Sadananda L can be reached at +91 9591964222.
+What is Dr. Sadananda L's email address?,Dr. Sadananda L's email address is sadananda.cs@sode-edu.in.
+Where can I find more information about Dr. Sadananda L?,More information about Dr. Sadananda L can be found at https://sode-edu.in/sadananda-l/.
+What are Dr. Sadananda L's educational qualifications?,"Dr. Sadananda L holds a BE in Computer Science and Engineering, an M.Tech in Network and Internet Engineering, and a Ph.D. in Computer Science and Engineering."
+What is Dr. Sadananda L's area of specialization?,Dr. Sadananda L specializes in Network and Internet Engineering.
+What is Dr. Sadananda L's teaching experience?,Dr. Sadananda L has 11 years and 1 month of teaching experience.
+What is Dr. Sadananda L's industry experience?,Dr. Sadananda L has 1 year of industry experience.
+What are Dr. Sadananda L's areas of interest?,Dr. Sadananda L's areas of interest include Security and Machine Learning for malware detection.
+What is Dr. Bharti Panjwani's designation?,Dr. Bharti Panjwani is an Associate Professor in the Department of Computer Science & Engineering.
+In which department does Dr. Bharti Panjwani work?,Dr. Bharti Panjwani works in the Department of Computer Science & Engineering.
+What is Dr. Bharti Panjwani's phone number?,Dr. Bharti Panjwani can be reached at +91 820 2589182 or +91 820 2589183.
+What is Dr. Bharti Panjwani's email address?,Dr. Bharti Panjwani's email address is bharti.cs@sode-edu.in.
+Where can I find more information about Dr. Bharti Panjwani?,More information about Dr. Bharti Panjwani can be found at https://sode-edu.in/dr-bharti-panjwani/.
+What are Dr. Bharti Panjwani's educational qualifications?,Dr. Bharti Panjwani has a PhD in her field.
+What is Dr. Bharti Panjwani's area of specialization?,"Dr. Bharti Panjwani specializes in Meta-heuristic and evolutionary algorithms, Artificial Intelligence, Cancer Informatics, and Biomedical systems."
+What is Dr. Bharti Panjwani's teaching experience?,Dr. Bharti Panjwani has 3 years and 5 months of teaching experience.
+What is Dr. Bharti Panjwani's research experience?,Dr. Bharti Panjwani has 7 years and 3 months of research experience.
+What are Dr. Bharti Panjwani's areas of interest?,"Dr. Bharti Panjwani's areas of interest include Control Systems, Biomedical Instrumentation, Artificial Intelligence, and Machine Learning."
+What is Ms. Sahana's designation?,Ms. Sahana is an Assistant Professor (Senior) in the Department of Computer Science & Engineering.
+In which department does Ms. Sahana work?,Ms. Sahana works in the Department of Computer Science & Engineering.
+What is Ms. Sahana's phone number?,"Ms. Sahana can be reached at +91 820 2589182, +91 820 2589183 (Ext: 226), and +91 9611615001."
+What is Ms. Sahana's email address?,Ms. Sahana's email address is sahanakaranth.cs@sode-edu.in.
+Where can I find more information about Ms. Sahana?,More information about Ms. Sahana can be found at https://sode-edu.in/sahana/.
+What are Ms. Sahana's educational qualifications?,Ms. Sahana holds an M. Tech in Computer Science and Engineering and a B.E. in Information Science and Engineering.
+What is Ms. Sahana's area of specialization?,Ms. Sahana specializes in Computer Science and Engineering.
+What is Ms. Sahana's teaching experience?,Ms. Sahana has 15 years and 3 months of teaching experience.
+What is Ms. Sahana's research experience?,Ms. Sahana has 1 year and 6 months of research experience.
+What are Ms. Sahana's areas of interest?,"Ms. Sahana's areas of interest include High Performance Computing, Video Processing, Machine Learning, and Deep Learning."
+What is Mr. Deepak Rao M's designation?,Mr. Deepak Rao M is an Assistant Professor (Senior) in the Department of Computer Science & Engineering.
+In which department does Mr. Deepak Rao M work?,Mr. Deepak Rao M works in the Department of Computer Science & Engineering.
+What is Mr. Deepak Rao M's phone number?,Mr. Deepak Rao M can be reached at 9743083663.
+What is Mr. Deepak Rao M's email address?,Mr. Deepak Rao M's email address is deepakraom.cs@sode-edu.in.
+Where can I find more information about Mr. Deepak Rao M?,More information about Mr. Deepak Rao M can be found at https://sode-edu.in/deepak-rao-m/.
+What are Mr. Deepak Rao M's educational qualifications?,Mr. Deepak Rao M holds a B.E. in Information Science and Engineering and an M. Tech in Computer Science and Engineering.
+What is Mr. Deepak Rao M's area of specialization?,Mr. Deepak Rao M specializes in Embedded Systems and Digital Electronics.
+What is Mr. Deepak Rao M's teaching experience?,Mr. Deepak Rao M has 11 years and 9 months of teaching experience.
+What is Mr. Deepak Rao M's industry experience?,Mr. Deepak Rao M has 1.8 years of industry experience.
+What are Mr. Deepak Rao M's areas of interest?,"Mr. Deepak Rao M's areas of interest include Machine Learning, Internet of Things (IoT), and Digital Electronics."
+What is Ms. Savitha A. Shenoy's designation?,Ms. Savitha A. Shenoy is an Assistant Professor (Senior) in the Department of Computer Science & Engineering.
+In which department does Ms. Savitha A. Shenoy work?,Ms. Savitha A. Shenoy works in the Department of Computer Science & Engineering.
+What is Ms. Savitha A. Shenoy's phone number?,Ms. Savitha A. Shenoy can be reached at 9880343498.
+What is Ms. Savitha A. Shenoy's email address?,Ms. Savitha A. Shenoy's email address is savitha.cs@sode-edu.in.
+Where can I find more information about Ms. Savitha A. Shenoy?,More information about Ms. Savitha A. Shenoy can be found at https://sode-edu.in/savitha-a-shenoy/.
+What are Ms. Savitha A. Shenoy's educational qualifications?,Ms. Savitha A. Shenoy holds a B.E. in Computer Science and an M.Tech in Computer Science.
+What is Ms. Savitha A. Shenoy's area of specialization?,Ms. Savitha A. Shenoy specializes in Computer Science.
+What is Ms. Savitha A. Shenoy's teaching experience?,Ms. Savitha A. Shenoy has 17 years and 8 months of teaching experience.
+What is Ms. Savitha A. Shenoy's industry experience?,not available
+What are Ms. Savitha A. Shenoy's areas of interest?,Ms. Savitha A. Shenoy's areas of interest include Data Structures and Operating Systems.
+What is Ms. Rukmini Bhat B's designation?,Ms. Rukmini Bhat B is an Assistant Professor (Senior) in the Department of Computer Science & Engineering.
+In which department does Ms. Rukmini Bhat B work?,Ms. Rukmini Bhat B works in the Department of Computer Science & Engineering.
+What is Ms. Rukmini Bhat B's phone number?,Ms. Rukmini Bhat B can be reached at +91 820 2589183.
+What is Ms. Rukmini Bhat B's email address?,Ms. Rukmini Bhat B's email address is rukmini.cs@sode-edu.in.
+Where can I find more information about Ms. Rukmini Bhat B?,More information about Ms. Rukmini Bhat B can be found at https://sode-edu.in/rukmini-ballal/.
+What are Ms. Rukmini Bhat B's educational qualifications?,Ms. Rukmini Bhat B holds a B.E. in Computer Science and an M.Tech in Computer Science and Engineering.
+What is Ms. Rukmini Bhat B's area of specialization?,Ms. Rukmini Bhat B specializes in Computer Science and Engineering.
+What is Ms. Rukmini Bhat B's teaching experience?,Ms. Rukmini Bhat B has 12 years and 3 months of teaching experience.
+What is Ms. Rukmini Bhat B's industry experience?,not available
+What are Ms. Rukmini Bhat B's areas of interest?,"Ms. Rukmini Bhat B's areas of interest include Computer Networks and Security, Database Management System, Internet of Things, Blockchain, and Big Data Analytics."
+What is Ms. Tejaswini H's designation?,Ms. Tejaswini H is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Tejaswini H work?,Ms. Tejaswini H works in the Department of Computer Science & Engineering.
+What is Ms. Tejaswini H's phone number?,not available
+What is Ms. Tejaswini H's email address?,Ms. Tejaswini H's email address is tejaswini.cs@sode-edu.in.
+Where can I find more information about Ms. Tejaswini H?,More information about Ms. Tejaswini H can be found at https://sode-edu.in/tejaswini-h/.
+What are Ms. Tejaswini H's educational qualifications?,"Ms. Tejaswini H is pursuing a Ph.D., and she holds an M.Tech in Computer Science and Engineering and a B.E. in Computer Science and Engineering."
+What is Ms. Tejaswini H's area of specialization?,Ms. Tejaswini H specializes in Image Processing.
+What is Ms. Tejaswini H's teaching experience?,Ms. Tejaswini H has 11 years and 3 months of teaching experience.
+What is Ms. Tejaswini H's industry experience?,not available
+What is Ms. Tejaswini H's research experience?,Ms. Tejaswini H has 4 years and 10 months of research experience.
+What are Ms. Tejaswini H's areas of interest?,"Ms. Tejaswini H's areas of interest include Deep Learning, Knowledge-base Engineering, Image Processing, and Machine Learning."
+What is Ms. Yashaswini A.S's designation?,Ms. Yashaswini A.S is an Assistant Professor (Sr.) in the Department of Computer Science & Engineering.
+In which department does Ms. Yashaswini A.S work?,Ms. Yashaswini A.S works in the Department of Computer Science & Engineering.
+What is Ms. Yashaswini A.S's phone number?,Ms. Yashaswini A.S's phone number is 8884871885.
+What is Ms. Yashaswini A.S's email address?,Ms. Yashaswini A.S's email address is yashaswinias.cs@sode-edu.in.
+Where can I find more information about Ms. Yashaswini A.S?,More information about Ms. Yashaswini A.S can be found at https://sode-edu.in/yashaswini-a-s/.
+What are Ms. Yashaswini A.S's educational qualifications?,Ms. Yashaswini A.S has a B.E. in Computer Science and Engineering and an M.Tech in Computer Science and Engineering.
+What is Ms. Yashaswini A.S's area of specialization?,Ms. Yashaswini A.S specializes in Augmented Reality and Virtual Reality.
+What is Ms. Yashaswini A.S's teaching experience?,Ms. Yashaswini A.S has 10 years and 1 month of teaching experience.
+What is Ms. Yashaswini A.S's industry experience?,not available
+What is Ms. Yashaswini A.S's research experience?,not available
+What are Ms. Yashaswini A.S's areas of interest?,"Ms. Yashaswini A.S's areas of interest include Augmented and Virtual Reality, Big Data Analytics, Computer Network and Security, and Web Technologies."
+What is Mr. Raghavendra I. hegde's designation?,Mr. Raghavendra I.hegde is an Assistant Professor (Sr.) in the Department of Computer Science & Engineering.
+In which department does Mr.Raghavendra I. hegde work?, Mr. Raghavendra I.hegde works in the Department of Computer Science & Engineering.
+What is Mr.Raghavendra I.hegde's phone number?,Mr. Raghavendra I.hegde's phone number is ----------.
+What is Mr. Raghavendra I.hegde's email address?,Mr. Raghavendra I.hegde's email address is raghav.cs@sode-edu.in
+Where can I find more information about Mr.Raghavendra I.hegde?,More information about Mr. Raghavendra I.hegdecan be found at https://sode-edu.in/mr-raghavendra-i-hegde/.
+What are Mr.Raghavendra I.hegde's educational qualifications?,Mr. Raghavendra I.hegde has a B.E. in Computer Science and Engineering and an M.Tech in Computer Science and Engineering.
+What is Msr. Raghavendra I.hegde's area of specialization?,not available
+What is Mr. Raghavendra I.hegde's teaching experience?,Mr. Raghavendra I.hegde has 11 years and 2 month of teaching experience.
+What is Mr. Raghavendra I.hegde's industry experience?,not available
+What is Mr. Raghavendra I.hegde's research experience?,not available
+What are Mr. Raghavendra I.hegde's areas of interest?,Mr. Raghavendra I.hegde's areas of interest include IoT and data science.
+What is  Ms. Sowmya's designation?, Ms. Sowmya is an Assistant Professor (Sr.) in the Department of Computer Science & Engineering.
+In which department does Ms. Sowmya work?,Ms. Sowmya works in the Department of Computer Science & Engineering.
+What is  Ms. Sowmya's phone number?,not available
+What is Ms. Sowmya's email address?,Ms. Sowmya's email address is sowmyanh.cs@sode-edu.in
+Where can I find more information about Ms. Sowmya?,More information about Ms. Sowmya can be found at https://sode-edu.in/sowmya-n-h/.
+What are Ms. Sowmya's educational qualifications?,Ms. Sowmya has a B.E. in Computer Science and Engineering and an M.Tech in Computer Science and Engineering.
+What is  Ms. Sowmya's area of specialization?,Ms. Sowmya has specialized in internet of things and image processing.
+What is Ms. Sowmya's teaching experience?,Ms. Sowmya has 7 years and 7 month of teaching experience.
+What is  Ms. Sowmya's area of interest?,Ms. Sowmya has interested in internet of things and image processing.
+What is Ms. Sowmya's research experience?,not available
+What is Ms. Soundharya R's designation?,Ms. Soundharya R is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Soundharya R work?,Ms. Soundharya R works in the Department of Computer Science & Engineering.
+What is Ms. Soundharya R's phone number?,not available
+What is Ms. Soundharya R's email address?,Ms. Soundharya R's email address is soundharya.cs@sode-edu.in.
+Where can I find more information about Ms. Soundharya R?,More information about Ms. Soundharya R can be found at  https://sode-edu.in/ms-soundharya-r/
+What are Ms. Soundharya R's educational qualifications?,Ms. Soundharya R has a B.E. in Computer Science and Engineering and an M.Tech in Computer Science and Engineering.
+What is Ms. Soundharya R's area of specialization?,Ms. Soundharya R specializes in Computer Science.
+What is Ms. Soundharya R's teaching experience?,Ms. Soundharya R has 2 years and 7 months of teaching experience.
+What is Ms. Soundharya R's industry experience?,not available
+What is Ms. Soundharya R's research experience?,not available
+What are Ms. Soundharya R's areas of interest?,Ms. Soundharya R's areas of interest include Data Mining and Computer Networks.
+What is Mrs. Preethi M.'s designation?,Mrs. Preethi M. is an Assistant Professor (Sr.) in the Department of Computer Science & Engineering.
+In which department does Mrs. Preethi M. work?,Mrs. Preethi M. works in the Department of Computer Science & Engineering.
+What is Mrs. Preethi M.'s phone number?,not available
+What is Mrs. Preethi M.'s email address?,Mrs. Preethi M.'s email address is preethi.cs@sode-edu.in.
+Where can I find more information about Mrs. Preethi M.?,More information about Mrs. Preethi M. can be found at https://sode-edu.in/mr-preethi-m/
+What are Mrs. Preethi M.'s educational qualifications?,Mrs. Preethi M. has a B.E. and an M.Tech in Computer Science and Engineering.
+What is Mrs. Preethi M.'s area of specialization?,Mrs. Preethi M. specializes in Computer Science and Engineering.
+What is Mrs. Preethi M.'s teaching experience?,Mrs. Preethi M. has 6 years and 2 months of teaching experience.
+What is Mrs. Preethi M.'s industry experience?,not available
+What is Mrs. Preethi M.'s research experience?,not available
+What are Mrs. Preethi M.'s areas of interest?,not available
+What is Mrs. Chaitra Bhat M.'s designation?,Mrs. Chaitra Bhat M. is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Mrs. Chaitra Bhat M. work?,Mrs. Chaitra Bhat M. works in the Department of Computer Science & Engineering.
+What is Mrs. Chaitra Bhat M.'s phone number?,not available
+What is Mrs. Chaitra Bhat M.'s email address?,Mrs. Chaitra Bhat M.'s email address is chaitra.cs@sode-edu.in.
+Where can I find more information about Mrs. Chaitra Bhat M.?,More information about Mrs. Chaitra Bhat M. can be found at https://sode-edu.in/mrs-chaitra-bhat-m/
+What are Mrs. Chaitra Bhat M.'s educational qualifications?,Mrs. Chaitra Bhat M. has a B.E. and an M.Tech in Computer Science and Engineering.
+What is Mrs. Chaitra Bhat M.'s area of specialization?,Mrs. Chaitra Bhat M. specializes in Software and Web Development.
+What is Mrs. Chaitra Bhat M.'s teaching experience?,Mrs. Chaitra Bhat M. has 3 years and 2 months of teaching experience.
+What is Mrs. Chaitra Bhat M.'s industry experience?,Mrs. Chaitra Bhat M. has 1 year of industry experience.
+What is Mrs. Chaitra Bhat M.'s research experience?,not available
+What are Mrs. Chaitra Bhat M.'s areas of interest?,Mrs. Chaitra Bhat M.'s areas of interest include Software and Application Development.
+What is Ms. Reshma's designation?,Ms. Reshma is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Reshma work?,Ms. Reshma works in the Department of Computer Science & Engineering.
+What is Ms. Reshma's phone number?,not available
+What is Ms. Reshma's email address?,Ms. Reshma's email address is reshma.cs@sode-edu.in.
+Where can I find more information about Ms. Reshma?,More information about Ms. Reshma can be found at https://sode-edu.in/ms-reshma/
+What are Ms. Reshma's educational qualifications?,Ms. Reshma has a B.E. and an M.Tech.
+What is Ms. Reshma's area of specialization?,not available
+What is Ms. Reshma's teaching experience?,Ms. Reshma has 1 year and 8 months of teaching experience.
+What is Ms. Reshma's industry experience?,Ms. Reshma has 1 year of industry experience.
+What is Ms. Reshma's research experience?,not available
+What are Ms. Reshma's areas of interest?,not available
+What is Ms. Mahadevi's designation?,Ms. Mahadevi is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Mahadevi work?,Ms. Mahadevi works in the Department of Computer Science & Engineering.
+What is Ms. Mahadevi's phone number?,Ms. Mahadevi's phone number is 9008513197.
+What is Ms. Mahadevi's email address?,Ms. Mahadevi's email address is mahadevi.cs@sode-edu.in.
+Where can I find more information about Ms. Mahadevi?,More information about Ms. Mahadevi can be found at https://sode-edu.in/ms-mahadevi/
+What are Ms. Mahadevi's educational qualifications?,Ms. Mahadevi has a B.E. and an M.Tech.
+What is Ms. Mahadevi's area of specialization?,not available
+What is Ms. Mahadevi's teaching experience?,Ms. Mahadevi has 4 years and 9 months of teaching experience.
+What is Ms. Mahadevi's industry experience?,Ms. Mahadevi has 6 months of industry experience.
+What is Ms. Mahadevi's research experience?,not available
+What are Ms. Mahadevi's areas of interest?,not available
+What is Mr. Raghavendra G. S.'s designation?,Mr. Raghavendra G. S. is an Assistant Professor (Sr.) in the Department of Computer Science & Engineering.
+In which department does Mr. Raghavendra G. S. work?,Mr. Raghavendra G. S. works in the Department of Computer Science & Engineering.
+What is Mr. Raghavendra G. S.'s phone number?,Mr. Raghavendra G. S.'s phone number is not provided.
+What is Mr. Raghavendra G. S.'s email address?,Mr. Raghavendra G. S.'s email address is raghugs.cs@sode-edu.in.
+Where can I find more information about Mr. Raghavendra G. S.?,More information about Mr. Raghavendra G. S. can be found at https://sode-edu.in/mr-raghavendra-g-s/
+What are Mr. Raghavendra G. S.'s educational qualifications?,Mr. Raghavendra G. S. has a B.E. and an M.E.
+What is Mr. Raghavendra G. S.'s area of specialization?,"Mr. Raghavendra G. S.'s area of specialization includes Artificial Intelligence, Machine Learning, Cybersecurity, and Generative AI."
+What is Mr. Raghavendra G. S.'s teaching experience?,Mr. Raghavendra G. S. has 5 years and 4 months of teaching experience.
+What is Mr. Raghavendra G. S.'s industry experience?,not available
+What is Mr. Raghavendra G. S.'s research experience?,not available
+What are Mr. Raghavendra G. S.'s areas of interest?,"Mr. Raghavendra G. S.'s areas of interest include Artificial Intelligence, Machine Learning, Cybersecurity, and Generative AI."
+What is Ms. Babitha Poojary's designation?,Ms. Babitha Poojary is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Babitha Poojary work?,Ms. Babitha Poojary works in the Department of Computer Science & Engineering.
+What is Ms. Babitha Poojary's phone number?,Ms. Babitha Poojary's phone number is 9972365616.
+What is Ms. Babitha Poojary's email address?,Ms. Babitha Poojary's email address is babitha.cs@sode-edu.in.
+Where can I find more information about Ms. Babitha Poojary?,More information about Ms. Babitha Poojary can be found at https://sode-edu.in/ms-babitha-poojary/.
+What are Ms. Babitha Poojary's educational qualifications?,Ms. Babitha Poojary has a B.E. and an M.Tech in Computer Science and Engineering.
+What is Ms. Babitha Poojary's area of specialization?9,Ms. Babitha Poojary specializes in Digital Communication and Networking.
+What is Ms. Babitha Poojary's teaching experience?,Ms. Babitha Poojary has 3 years and 1 month of teaching experience.
+What is Ms. Babitha Poojary's industry experience?,not available
+What are Ms. Babitha Poojary's areas of interest?,Ms. Babitha Poojary's areas of interest include Internet of Things.
+What is Mr. Chandrashekhar Rao Kuthyar's designation?,Mr. Chandrashekhar Rao Kuthyar is an Assistant Professor - SG in the Department of Computer Science & Engineering.
+In which department does Mr. Chandrashekhar Rao Kuthyar work?,Mr. Chandrashekhar Rao Kuthyar works in the Department of Computer Science & Engineering.
+What is Mr. Chandrashekhar Rao Kuthyar's phone number?,Mr. Chandrashekhar Rao Kuthyar's phone number is unavailable.
+What is Mr. Chandrashekhar Rao Kuthyar's email address?,Mr. Chandrashekhar Rao Kuthyar's email address is cpd@sode-edu.in.
+Where can I find more information about Mr. Chandrashekhar Rao Kuthyar?,More information about Mr. Chandrashekhar Rao Kuthyar can be found at https://sode-edu.in/mr-chandrashekar-rao-kuthyar/.
+What are Mr. Chandrashekhar Rao Kuthyar's educational qualifications?,Mr. Chandrashekhar Rao Kuthyar has a B.E. and an M.Tech in Computer Science and Engineering.
+What is Mr. Chandrashekhar Rao Kuthyar's area of specialization?,Mr. Chandrashekhar Rao Kuthyar specializes in Computer Science and Engineering.
+What is Mr. Chandrashekhar Rao Kuthyar's teaching experience?,Teaching experience details are unavailable.
+What is Mr. Chandrashekhar Rao Kuthyar's industry experience?,not available
+What are Mr. Chandrashekhar Rao Kuthyar's areas of interest?,Area of interest details are unavailable.
+What is Ms. Pooja V's designation?,Ms. Pooja V is an Assistant Professor in the Department of Computer Science & Engineering.
+In which department does Ms. Pooja V work?,Ms. Pooja V works in the Department of Computer Science & Engineering.
+What is Ms. Pooja V's phone number?,Ms. Pooja V's phone number is unavailable.
+What is Ms. Pooja V's email address?,Ms. Pooja V's email address is pooja.cs@sode-edu.in.
+Where can I find more information about Ms. Pooja V?,More information about Ms. Pooja V can be found at https://sode-edu.in/ms-pooja/.
+What are Ms. Pooja V's educational qualifications?,Ms. Pooja V has an M.Tech and a B.E. in Computer Engineering.
+What is Ms. Pooja V's area of specialization?,Ms. Pooja V specializes in Computer Engineering.
+What is Ms. Pooja V's teaching experience?,Ms. Pooja V has 2 years and 6 months of teaching experience.
+What is Ms. Pooja V's industry experience?,Ms. Pooja V has more than 1 year of industry experience.
+What are Ms. Pooja V's areas of interest?,Area of interest details are unavailable.
+What is Dr. Shilpa Kamath's designation?,Dr. Shilpa Kamath  's designation is Associate Professor in the Electronics & Communication Engineering department.
+In which department does Dr. Shilpa Kamath work?,Dr. Shilpa Kamath S. is an Associate Professor in the Electronics & Communication Engineering department.
+What is Dr. Shilpa Kamath's phone number?,"Dr Shilpa Kamath S can be contacted at +919482440940
+"
+What is Dr. Shilpa Kamath's email address?,Dr. Shilpa Kamath S.'s email address is shilpa.ec@sode-edu.in.
+Where can I find more information about Dr. Shilpa Kamath?,More information about Dr Shilpa https://sode-edu.in/faculties/dr-shilpa-kamath-s/#
+What are Dr. Shilpa Kamath's educational qualifications?,"Dr. Shilpa Kamath S. holds a Ph.D., M.Tech., and B.E. in relevant fields."
+What are Dr. Shilpa Kamath's areas of specialization?,Dr. Shilpa Kamath S. specializes in Digital Electronics and Signal Compression
+What is Dr. Shilpa Kamath's teaching experience?,Dr. Shilpa Kamath S. has 7 years and 8 months of teaching experience and 9 years and 4 months of research experience.
+What is Dr. Shilpa Kamath's research experience?,Dr Shilpa Kamath S has 9 Years 4 Months of Research Experiance
+What are Dr. Shilpa Kamath's areas of interest?,"Dr. Shilpa Kamath S.'s areas of interest include Biomedical Image Processing, Machine Learning, Deep Learning, and Embedded Systems."
+What is Mr. Sachin Bhat's designation?,Mr. Sachin Bhat’s designation is Assistant Professor.
+In which department does Mr. Sachin Bhat work?,Mr. Sachin Bhat works in the Electronics and Communication Engineering department.
+What is Mr. Sachin Bhat's phone number?,Mr Sachin Bhat can be contacted at 91 94807 89514
+What is Mr. Sachin Bhat's email address?,Mr. Sachin Bhat can be contacted at sachinsbhat.ec@sode-edu.in.
+Where can I find more information about Mr. Sachin Bhat?,more information about Mr Sachin Bhat can be found at https://sode-edu.in/faculties/sachin-bhat/#
+What are Mr. Sachin Bhat's educational qualifications?,"Mr Sachin Bhat holds a B.E. in Electronics and Communication Engineering, an M.Tech in Digital Electronics and Communication, and a Ph.D. in Deep Learning."
+What are Mr. Sachin Bhat's areas of specialization?,"Mr Sachin Bhat specializes in Deep Learning, Digital Image Processing, Large Language Models, Linguistics, Indology"
+What is Mr. Sachin Bhat's teaching experience?,Mr Sachin Bhat has 4 Years 2 Months of Teaching Experience
+What is Mr. Sachin Bhat's research experience?,Mr Sachin Bhat has 8 Years 5 Months of research experience
+What are Mr. Sachin Bhat's areas of interest?,"Mr. Sachin Bhat's areas of interest include Deep Learning, Natural Language Processing, Digital Image Processing, Object-Oriented Programming, Palaeography, Document Analysis, Linguistics, and Indology."
+What is Mr. Arun Upadhyaya's designation?,Mr Arun Upadhyaya's Designation is Assistant Professor (SG) (in-Charge HoD)
+In which department does Mr. Arun Upadhyaya work?,Mr Arun Upadhyaya wroks in Electronics & Communication Engineering
+What is Mr. Arun Upadhyaya's phone number?,Mr Arun Upadhaya can be contacted at 09686323734
+What is Mr. Arun Upadhyaya's email address?,Mr Arun Upadhaya 's email is arun_upadhyaya.ec@sode-edu.in
+Where can I find more information about Mr. Arun Upadhyaya?,More information about Mr Arun can be found at https://sode-edu.in/faculties/arun-upadhyaya/#
+What are Mr. Arun Upadhyaya's educational qualifications?,Mr Arun Upadhaya's education qualifications are M.Tech (Digital Electronics and Communication)AMIE in Electronics and Communication
+What are Mr. Arun Upadhyaya's areas of specialization?,"Mr Arun Upadhaya specializes in Digital Electronics, analog and Digital Communication, Cryptography"
+What is Mr. Arun Upadhyaya's teaching experience?,Mr Arun Upadhaya has 16 Years 2 Months of teaching Experience
+What is Mr. Arun Upadhyaya's research experience?,Mr Arun Upadhaya  Has 6 Years 8 Months of Research Experience
+What are Mr. Arun Upadhyaya's areas of interest?,Mr Arun Upadhaya's area of interest is Analog/Digital CommunicationDigital ElectronicsImage ProcessingCryptography
+What is Mr. Ramashesha C. S.'s designation?,Mr. Ramashesha C. S. is a Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Ramashesha C. S. work?,Mr. Ramashesha C. S. is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Ramashesha C. S.'s educational qualification?,Mr. Ramashesha holds a B.E. and an M.Tech degree in his field of study.
+where can i find more information about Mr Ramashesha C,More information about Mr ramashesha can be found at https://sode-edu.in/faculties/mr-ramashesha/#
+What is Mr. Ramashesha C. S.'s area of specialization?,Mr Ramashesha 's areas of specialization include Digital Signal Processing and Field Theory.
+What are Mr. Ramashesha C. S.'s areas of interest?,Mr. Ramashesha's areas of interest are also in Digital Signal Processing and Field Theory.
+What is Mr. Ramashesha C. S.'s phone number?,Mr. Ramashesha can be contacted at +91 9448983290
+What is Mr. Ramashesha C. S.'s email address?,Mr. Ramashesha can be contacted at via email at ramashesha.ec@sode-edu.in.
+what is Mr.Ramashesha C's Teaching Experience,Mr. Ramashesha has accumulated 39 years and 2 months of teaching experience.
+what is Mr.Ramashesha C's Industry Experience,not available
+What is Mr. Lawrence D almeida's designation?,Mr. Lawrence D almeida is Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Lawrence D almeida work?,Mr. Lawrence D almeida is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Lawrence D almeida's educational qualification?,Mr. Lawrence D almeida holds a B.E. and an M.Tech in biomedical engineering.
+How many years of teaching experience does Mr. Lawrence D almeida have?,More information about Mr lawrence can be found at https://sode-edu.in/mr-lawrence-d-almaida/#
+What is Mr. Lawrence D almeida's area of specialization?,"Mr. Lawrence D almeida areas of specialization include analog electronics, digital electronics,integrated circuit system, network analysis, control systems."
+What are Mr. Lawrence D almeida's areas of interest?,"Mr. Lawrence D almeida areas of interest are analog and digital electronics, VLSI, embedded system."
+What is Mr. Lawrence D almeida's phone number?,Mr. Lawrence D almeidacan be contacted at +91 9448911493
+What is Mr. Lawrence D almeida's email address?,Mr. Lawrence D almeidacan be contacted at via email at lawrence.ec@sode-edu.in.
+what is Mr. Lawrence D almeida's Teaching Experience,not available
+what is Mr. Lawrence D almeida's industrial experiences?,Mr. Lawrence D almeida has 2 years of industrial experience.
+What is Mr. Guruprasad's designation?,Mr. Guruprasad is an Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Guruprasad work?,Mr. Guruprasad is an Assistant Professor in the Electronics & Communication Engineering department.
+What is Mr. Guruprasad's educational qualification?,Mr. Guruprasad holds a B.E. degree and a M.Tech degree in his field of study.
+How many years of teaching experience does Mr. Guruprasad have?,Mr. Guruprasad has 10 years of teaching experience.
+What is Mr. Guruprasad's area of specialization?,Mr. Guruprasad's area of specialization includes Digital Signal Processing (DSP).
+What are Mr. Guruprasad's areas of interest?,Mr. Guruprasad's areas of interest are VLSI Design and Digital Electronics.
+What is Mr. Guruprasad's phone number?,Mr. Guruprasad can be contacted at +91 9886022080.
+What is Mr. Guruprasad's email address?,Mr. Guruprasad's email address is guruprasad.ec@sode-edu.in.
+Where can I find more information about Mr. Guruprasad?,More information about Mr.Guruprasad can be found at https://sode-edu.in/faculties/dr-guruprasad/#
+What is Mr.Guruprasad's Research Experience,Mr Guruprasad has 10 Years 6 Months of Research Experience
+What is Mr. Nagaraja rao's designation?,Mr. Nagaraja rao is Associate Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Nagaraja rao work?,Mr. Nagaraja rao is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Nagaraja rao's educational qualification?,Mr. Nagaraja rao holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Mr. Nagaraja rao have?,More information about Mr nagaraja can be found at https://sode-edu.in/nagaraja-rao/#
+What is Mr. Nagaraja rao's area of specialization?,not available
+What are Mr. Nagaraja rao's areas of interest?,"Mr. Nagaraja rao areas of interest are control engineering, modern and digital control engineering and digital signal processing."
+What is Mr. Nagaraja rao's phone number?,Mr. Nagaraja raocan be contacted at +91 9980236589
+What is Mr. Nagaraja rao's email address?,Mr. Nagaraja raocan be contacted at via email at bnagarajrao.ec@sode-edu.in.
+what is Mr. Nagaraja rao's Teaching Experience,Mr. Nagaraja rao has 19 years 9 months of teaching experience.
+what is Mr. Nagaraja rao's industrial experiences?,Mr. Nagaraja rao has 9 years 11 months of research experience.
+What is Dr. Shilpa kamath S's designation?,Dr. Shilpa kamath S is Associate Professor in the Electronics & Communication Engineering department.
+In which department does Dr. Shilpa kamath S work?,Dr. Shilpa kamath S is a Professor in the Electronics & Communication Engineering department.
+What is Dr. Shilpa kamath S's educational qualification?,"Dr. Shilpa kamath S holds a B.E. and an M.Tech , Ph.D."
+How many years of teaching experience does Dr. Shilpa kamath S have?,More information about Dr. Shilpa kamath can be found at https://sode-edu.in/dr-shilpa-kamath-s/#
+What is Dr. Shilpa kamath S's area of specialization?,"Dr. Shilpa kamath S areas of specialization includes digital electronics,signal compression."
+What are Dr. Shilpa kamath S's areas of interest?,"Dr. Shilpa kamath S areas of interest are biomedical image processing, machine learning, deep learning,embedded system"
+What is Dr. Shilpa kamath S's phone number?,not available
+What is Dr. Shilpa kamath S's email address?,Dr. Shilpa kamath Scan be contacted at via email at shilpa.ec@sode-edu.in.
+what is Dr. Shilpa kamath S's Teaching Experience,Dr. Shilpa kamath S has 7.5 years 8 months of teaching experience.
+what is Dr. Shilpa kamath S's industrial experiences?,Dr. Shilpa kamath S has 9 years 4 months of research experience.
+What is Ms. Shashikala R's designation?,Ms. Shashikala R is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Shashikala R work?,Ms. Shashikala R is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Shashikala R's educational qualification?,Ms. Shashikala R holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Shashikala R have?,More information about Ms shashikala can be found at https://sode-edu.in/shashikala-r/#
+What is Ms. Shashikala R's area of specialization?,Ms. Shashikala R areas of specialization include digital electronics and advanced communication.
+What are Ms. Shashikala R's areas of interest?,"Ms. Shashikala R areas of interest are analog and digital communication, digital image processing and linear integrated circuts."
+What is Ms. Shashikala R's phone number?,Ms. Shashikala Rcan be contacted at +91 9980236589
+What is Ms. Shashikala R's email address?,Ms. Shashikala Rcan be contacted at via email at shashikala.ec@sode-edu.in.
+what is Ms. Shashikala R's Teaching Experience,Ms. Shashikala R has 13 years 3 months of teaching experience.
+what is Ms. Shashikala R's industrial experiences?,Ms. shashikala R has 2 years 11 months of research experience.
+What is Mr. Chetan R's designation?,Mr. Chetan R is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Chetan R work?,Mr. Chetan R is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Chetan R's educational qualification?,"Mr. Chetan R holds a diploma, B.E. and M.Tech degree."
+How many years of teaching experience does Mr. Chetan R have?,More information about Mr. Chetan R can be found at https://sode-edu.in/chetan-r/#
+What is Mr. Chetan R's area of specialization?,Mr. Chetan R areas of specialization include microelectrnics and control system.
+What are Mr. Chetan R's areas of interest?,"Mr. Chetan R areas of interest are electronics cad design and verification, vlsi front end and physical design, embedded system design,iot."
+What is Mr. Chetan R's phone number?,Mr. Chetan Rcan be contacted at +91 9986197796
+What is Mr. Chetan R's email address?,Mr. Chetan Rcan be contacted at via email at chetan.ec@sode-edu.in.
+what is Mr. Chetan R's Teaching Experience,Mr. Chetan R has 14 years 4 months of teaching experience.
+what is Mr. Chetan R's industrial experiences?,not available
+What is Ms. Sowmya bhat's designation?,Ms. Sowmya bhat is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Sowmya bhat work?,Ms. Sowmya bhat is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Sowmya bhat's educational qualification?,Ms. Sowmya bhat holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Sowmya bhat have?,More information about Ms sowmya bhat can be found at https://sode-edu.in/sowmya-bhat/#
+What is Ms. Sowmya bhat's area of specialization?,"Ms. Sowmya bhat areas of specialization include vlsi design, embedded system."
+What are Ms. Sowmya bhat's areas of interest?,"Ms. Sowmya bhat areas of interest are analog and digital electronics, VLSI, embedded system."
+What is Ms. Sowmya bhat's phone number?,Ms. Sowmya bhatcan be contacted at +91 9480147407
+What is Ms. Sowmya bhat's email address?,Ms. Sowmya bhatcan be contacted at via email at sowmyabhat.ec@sode-edu.in.
+what is Ms. Sowmya bhat's Teaching Experience,Ms. Sowmya bhat has 11 years 4 months of teaching experience.
+what is Ms. Sowmya bhat's industrial experiences?,not available
+What is Mr. Ganesh S shetty's designation?,Mr. Ganesh S shetty is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Ganesh S shetty work?,Mr. Ganesh S shetty is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Ganesh S shetty's educational qualification?,Mr. Ganesh S shetty holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Mr. Ganesh S shetty have?,More information about Mr ganesh  can be found at https://sode-edu.in/mr-raghunath/#
+What is Mr. Ganesh S shetty's area of specialization?,Mr. Ganesh S shetty areas of specialization include cryptography and artificial inteligence and machine learning.
+What are Mr. Ganesh S shetty's areas of interest?,Mr. Ganesh S shetty areas of interest are cryptography and artificial inteligence and machine learning
+What is Mr. Ganesh S shetty's phone number?,Mr. Ganesh S shettycan be contacted at +91 9663831083
+What is Mr. Ganesh S shetty's email address?,Mr. Ganesh S shettycan be contacted at via email at ganeshshetty.ec@sode-edu.in.
+what is Mr. Ganesh S shetty's Teaching Experience,Mr. Ganesh S shetty has 15 years 4 months of teaching experience.
+what is Mr. Ganesh S shetty's industrial experiences?,Mr. Ganesh S shetty has 3 years 3 months of research experience.
+What is Ms. Vijayalatha devadiga's designation?,Ms. Vijayalatha devadiga is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Vijayalatha devadiga work?,Ms. Vijayalatha devadiga is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Vijayalatha devadiga's educational qualification?,Ms. Vijayalatha devadiga holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Vijayalatha devadiga have?,More information about Mr ramashesha can be found at https://sode-edu.in/ms-vijayalatha-devadiga/#
+What is Ms. Vijayalatha devadiga's area of specialization?,not available
+What are Ms. Vijayalatha devadiga's areas of interest?,"Ms. Vijayalatha devadiga areas of interest are signal processing, vlsi."
+What is Ms. Vijayalatha devadiga's phone number?,not available
+What is Ms. Vijayalatha devadiga's email address?,Ms. Vijayalatha devadigacan be contacted at via email at vijayalatha.ec@sode-edu.in.
+what is Ms. Vijayalatha devadiga's Teaching Experience,not available
+what is Ms. Vijayalatha devadiga's industrial experiences?,not available
+What is Mr. Sachin Prabhu's designation?,Mr. Sachin Prabhu is an Assistant Professor in the Electronics and Communication Engineering department.
+In which department does Mr. Sachin Prabhu work?,Mr. Sachin Prabhu is an Assistant Professor in the Electronics and Communication Engineering department.
+What is Mr. Sachin Prabhu's educational qualification?,Mr. Sachin Prabhu holds a B.E. degree and a M.Tech degree in Digital Electronics.
+How many years of teaching experience does Mr. Sachin Prabhu have?,Mr. Sachin Prabhu has 8 years of teaching experience.
+What is Mr. Sachin Prabhu's area of specialization?,Mr. Sachin Prabhu's area of specialization includes Digital Electronics and Embedded Systems.
+What are Mr. Sachin Prabhu's areas of interest?,"Mr. Sachin Prabhu's areas of interest include Digital Electronics, Embedded Systems, and Signal Processing."
+What is Mr. Sachin Prabhu's phone number?,Mr. Sachin Prabhu can be contacted at +91 9902385610.
+What is Mr. Sachin Prabhu's email address?,Mr. Sachin Prabhu's email address is sachinprabhu.ec@sode-edu.in.
+Where can I find more information about Mr. Sachin Prabhu?,More information about Mr. Sachin Prabhu can be found at https://sode-edu.in/faculties/sachin-prabhu/#
+what is Mr.Sachin Prabhu's industry Experience,Mr. Sachin Prabhu has 8 years of industry experience.
+What is Ms. Yogeshwarya B H's designation?,Ms. Yogeshwarya B H is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Yogeshwarya B H work?,Ms. Yogeshwarya B H is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Yogeshwarya B H's educational qualification?,Ms. Yogeshwarya B H holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Yogeshwarya B H have?,More information about Mr ramashesha can be found at https://sode-edu.in/yogeshwary-b-h/#
+What is Ms. Yogeshwarya B H's area of specialization?,"Ms. Yogeshwarya B H areas of specialization include wireless communications,computer networks, digital electronics"
+What are Ms. Yogeshwarya B H's areas of interest?,"Ms. Yogeshwarya B H areas of interest are wireless communications,computer networks, digital electronics"
+What is Ms. Yogeshwarya B H's phone number?,Ms. Yogeshwarya B Hcan be contacted at +91 9741709922
+What is Ms. Yogeshwarya B H's email address?,Ms. Yogeshwarya B Hcan be contacted at via email at ryogeshwarya.ec@sode-edu.in.
+what is Ms. Yogeshwarya B H's Teaching Experience,Ms. Yogeshwarya B H has 12.5years 8 months of teaching experience.
+what is Ms. Yogeshwarya B H's industrial experiences?,Ms. Yogeshwarya B H has 3 years 4 months of research experience.
+What is Ms. Akshatha raol's designation?,Ms. Akshatha raol is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Akshatha raol work?,Ms. Akshatha raol is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Akshatha raol's educational qualification?,Ms. Akshatha raol holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Akshatha raol have?,More information about Mr ramashesha can be found at https://sode-edu.in/akshatha-rao-l/#
+What is Ms. Akshatha raol's area of specialization?,"Ms. Akshatha raol areas of specialization include digital communication and networking, c language."
+What are Ms. Akshatha raol's areas of interest?,"Ms. Akshatha raol areas of interest are wireless sensor networks, artificial intelligence and digital image processing."
+What is Ms. Akshatha raol's phone number?,Ms. Akshatha raolcan be contacted at +91 9902630801
+What is Ms. Akshatha raol's email address?,Ms. Akshatha raolcan be contacted at via email at akshatha.ec@sode-edu.in.
+what is Ms. Akshatha raol's Teaching Experience,Ms. Akshatha raol has 6 years 1 months of teaching experience.
+what is Ms. Akshatha raol's industrial experiences?,not available
+What is Ms. Vimitha A's designation?,Ms. Vimitha A is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Vimitha A work?,Ms. Vimitha A is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Vimitha A's educational qualification?,Ms. Vimitha A holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Vimitha A have?,More information about Mr ramashesha can be found at https://sode-edu.in/ms-vimitha-a/#
+What is Ms. Vimitha A's area of specialization?,Ms. Vimitha A areas of specialization include digital electronics and communication system.
+What are Ms. Vimitha A's areas of interest?,"Ms. Vimitha A areas of interest are analog communication, digital communication and image processing."
+What is Ms. Vimitha A's phone number?,not available
+What is Ms. Vimitha A's email address?,Ms. Vimitha Acan be contacted at via email at vimitha.ec@sode-edu.in.
+what is Ms. Vimitha A's Teaching Experience,Ms. Vimitha A has 6 years 3 months of teaching experience.
+what is Ms. Vimitha A's industrial experiences?,not available
+What is Ms. Chandana's designation?,Ms. Chandana is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Chandana work?,Ms. Chandana is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Chandana's educational qualification?,Ms. Chandana holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Chandana have?,More information about Mr ramashesha can be found at https://sode-edu.in/ms-chandana/#
+What is Ms. Chandana's area of specialization?,"Ms. Chandana areas of specialization include vlsi design, embedded system."
+What are Ms. Chandana's areas of interest?,"Ms. Chandana areas of interest are deep learning,image processing,  VLSI design, embedded system."
+What is Ms. Chandana's phone number?,not available
+What is Ms. Chandana's email address?,Ms. Chandanacan be contacted at via email at chandana.ec@sode-edu.in.
+what is Ms. Chandana's Teaching Experience,Ms. Chandana has 2 years 6 months of teaching experience.
+what is Ms. Chandana's industrial experiences?,not available
+What is Ms. Jayashree 's designation?,Ms. Jayashree  is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Jayashree  work?,Ms. Jayashree  is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Jayashree 's educational qualification?,Ms. Jayashree  holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Jayashree  have?,More information about Mr ramashesha can be found at https://sode-edu.in/ms-jayashree-m/#
+What is Ms. Jayashree 's area of specialization?,Ms. Jayashree  areas of specialization include power electronics engineering.
+What are Ms. Jayashree 's areas of interest?,not available
+What is Ms. Jayashree 's phone number?,Ms. Jayashree can be contacted at +91 9902337268
+What is Ms. Jayashree 's email address?,Ms. Jayashree can be contacted at via email at jayashree.ec@sode-edu.in.
+what is Ms. Jayashree 's Teaching Experience,Ms. Jayashree  has 3.4 years 3 months of teaching experience.
+what is Ms. Jayashree 's industrial experiences?,Ms. Jayashree has 8.9 years of industry experience.
+What is Ms. Poojashree hebbar's designation?,Ms. Poojashree hebbar is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Poojashree hebbar work?,Ms. Poojashree hebbar is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Poojashree hebbar's educational qualification?,Ms. Poojashree hebbar holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Ms. Poojashree hebbar have?,More information about Mr ramashesha can be found at https://sode-edu.in/ms-poojashree-hebbar/#
+What is Ms. Poojashree hebbar's area of specialization?,not available
+What are Ms. Poojashree hebbar's areas of interest?,not available
+What is Ms. Poojashree hebbar's phone number?,not available
+What is Ms. Poojashree hebbar's email address?,Ms. Poojashree hebbarcan be contacted at via email at poojashree.ec@sode-edu.in.
+what is Ms. Poojashree hebbar's Teaching Experience,Ms. Poojashree hebbar has 2 years 2 months of teaching experience.
+what is Ms. Poojashree hebbar's industrial experiences?,not available
+What is Ms. Lahari vaidya's designation?,Ms. Lahari vaidya is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Lahari vaidya work?,Ms. Lahari vaidya is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Lahari vaidya's educational qualification?,"Ms. Lahari vaidya holds a B.E,  M.Tech degree (M.A psychology)."
+How many years of teaching experience does Ms. Lahari vaidya have?,More information about Ms lahari  can be found at https://sode-edu.in/ms-lahari-vaidya/#
+What is Ms. Lahari vaidya's area of specialization?,not available
+What are Ms. Lahari vaidya's areas of interest?,not available
+What is Ms. Lahari vaidya's phone number?,not available
+What is Ms. Lahari vaidya's email address?,Ms. Lahari vaidyacan be contacted at via email at lahari.ec@sode-edu.in.
+what is Ms. Lahari vaidya's Teaching Experience,Ms. Lahari vaidya has 4 years 2 months of teaching experience.
+what is Ms. Lahari vaidya's industrial experiences?,not available
+What is Ms. Pavithra poornima S's designation?,Ms. Pavithra poornima S is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Ms. Pavithra poornima S work?,Ms. Pavithra poornima S is a Professor in the Electronics & Communication Engineering department.
+What is Ms. Pavithra poornima S's educational qualification?,Ms. Pavithra poornima S holds a B.E. and an M.Tech (DEC).
+How many years of teaching experience does Ms. Pavithra poornima S have?,More information about Ms. Pavithra poornima S can be found at https://sode-edu.in/ms-pavithra-poornima/#
+What is Ms. Pavithra poornima S's area of specialization?,not available
+What are Ms. Pavithra poornima S's areas of interest?,not available
+What is Ms. Pavithra poornima S's phone number?,not available
+What is Ms. Pavithra poornima S's email address?,Ms. Pavithra poornima Scan be contacted at via email at pavithra.ec@sode-edu.in.
+what is Ms. Pavithra poornima S's Teaching Experience,Ms. Pavithra poornima S has 11 years 1 months of teaching experience.
+what is Ms. Pavithra poornima S's industrial experiences?,not available
+What is Mr. Raghunatha's designation?,Mr. Raghunatha is Assistant Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Raghunatha work?,Mr. Raghunatha is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Raghunatha's educational qualification?,Mr. Raghunatha holds a B.E. and an M.Tech degree.
+How many years of teaching experience does Mr. Raghunatha have?,More information about Mr ramashesha can be found at https://sode-edu.in/mr-raghunath/#
+What is Mr. Raghunatha's area of specialization?,"Mr. Raghunatha areas of specialization include analog electronics, embedded system."
+What are Mr. Raghunatha's areas of interest?,"Mr. Raghunatha areas of interest are analog and digital electronics, VLSI, embedded system."
+What is Mr. Raghunatha's phone number?,Mr. Raghunathacan be contacted at +91 9980236589
+What is Mr. Raghunatha's email address?,Mr. Raghunathacan be contacted at via email at raghunatha.ec@sode-edu.in.
+what is Mr. Raghunatha's Teaching Experience,Mr. Raghunatha has 15 years 3 months of teaching experience.
+what is Mr. Raghunatha's industrial experiences?,not available
+What is Mr. Ajesh's designation?,Mr. Ajesh is a Professor in the Electronics & Communication Engineering department.
+In which department does Mr. Ajesh work?,Mr. Ajesh is a Professor in the Electronics & Communication Engineering department.
+What is Mr. Ajesh's educational qualification?,Mr. Ajesh holds a B.E. and an M.Tech degree in industrial automation and robotics
+How many years of teaching experience does Mr. Ajesh have?,More information about Mr ramashesha can be found at https://sode-edu.in/mr-ajesh/#
+What is Mr. Ajesh's area of specialization?,Mr. Ajesh areas of specialization include industrial automation and robotics.
+What are Mr. Ajesh's areas of interest?,"Mr. Ajesh areas of interest are automation, robotics, iot, electronics, electrical, mechatronics."
+What is Mr. Ajesh's phone number?,Mr. Ajeshcan be contacted at +91 9686618739
+What is Mr. Ajesh's email address?,Mr. Ajeshcan be contacted at via email at ajesh.ec@sode-edu.in.
+what is Mr. Ajesh's Teaching Experience,Mr. Ajesh has 6.8 years 11 months of teaching experience.
+what is Mr. Ajesh's industrial experiences?,Mr. Ajesh has 0.8 years of industry experience.
+Who are the non-teaching staff in the Ec Department?,The non-teaching staff includes:
+what is Role of Ms.Neethika,"Ms. Neethika is an Office Assistant in the Department of Electronics & Communication Engineering with 2.6 years of experience, and she can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Mr. Madhusudhan Thanthry P.N,"Mr. Madhusudhan Thanthry P.N is a Foreman in the Department of Electronics & Communication Engineering with 14 years of experience, and he can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Mr. Sandeep K.R,"Mr. Sandeep K.R is a Senior Lab Instructor in the Department of Electronics & Communication Engineering with 14 years of experience, and he can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Mr. Girish H ,"Mr. Girish H is a Senior Lab Instructor in the Department of Electronics & Communication Engineering with 11 years of experience, and he can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Mr. Krishnaraj,"Mr. Krishnaraj is a Lab Instructor in the Department of Electronics & Communication Engineering with 5 years of experience, and he can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Ms. Roopashree ,"Ms. Roopashree is a Lab Instructor in the Department of Electronics & Communication Engineering with 2.6 years of experience, and she can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Mr. Suresh Poojary,"Mr. Suresh Poojary is an Attendant in the Department of Electronics & Communication Engineering with 2.6 years of experience, and he can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Ms. Saraswathi ,"Ms. Saraswathi is an Attendant in the Department of Electronics & Communication Engineering with 2.6 years of experience, and she can be contacted at +91 7483031199, +91 7483031200."
+what is Role of Ms. Shalini,"Ms. Shalini is the Office Assistant II in the Civil Engineering Department with 8 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Vikramadithya Balthilaya,"Mr. Vikramadithya Balthilaya is a Programmer in the Computer Science Department with 26 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Suresh Rao U,"Mr. Suresh Rao U. is the System Analyst in the Computer Science Department with 20 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Shashidhar Pai ,"Mr. Shashidhar Pai is a Lab Technician in the Computer Science Department with 10 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Madhu Ballal,"Mr. Madhu Ballal is a Programmer in the Computer Science Department with 15 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mrs. Gowri T Bhat,"Mrs. Gowri T Bhat is the Foreman in the Computer Science Department with 26 years and 6 months of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Ms. Ashwini,"Ms. Ashwini is a Programmer in the Computer Science Department with 4 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mrs. Suketha,"Mrs. Suketha is a Lab Instructor in the Computer Science Department with 6 years and 4 months of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Ms. Pramathi,"Ms. Pramathi is a Lab Instructor in the Computer Science Department with 6 years and 4 months of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Ms. Deekshitha,"Ms. Deekshitha is a Lab Instructor in the Computer Science Department with 6 years and 4 months of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Ms. Shubashree,"Ms. Shubashree is a Lab Instructor in the Computer Science Department with 6 years and 4 months of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Sadananda Moolya,"Mr. Sadananda Moolya is an Attendant in the Computer Science Department with 22 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mrs. Indiraprasad,"Mrs. Indiraprasad is an Attendant in the Computer Science Department with 8 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+what is Role of Mr. Ranjith Kumar,"Mr. Ranjith Kumar is an Attendant in the Computer Science Department with 3 years of experience. Contact: +91 7483031199, +91 7483031200. More details on the website."
+Who is the Head of the Mechanical Engineering Department?,Dr. Raja Yateesh Yadav is the head of the Mechanical Engineering Department
+Who are the faculty members in the Mechanical Engineering Department?,"The faculty members include:
+Dr. RAJA YATEESH YADAV(Associate Professor & Head of the Department) , Dr. THIRUMALESHWARA BHAT(Professor & Principal),  Dr. SUDARSHAN RAO K(Professor & Dean), Dr. H. UDAYA PRASANNA(Professor),  Dr. MADHUKARA NAYAK(Assistant Professor (Sl. Gr)), Dr. MANJUNATHA S(Assistant Professor (Sl. Gr)), DR. BHARATH K. BHAT(Assistant Professor (Selection Grade), Mr. ADITYA KUDVA S(Assistant Professor), Mr. RAVINARAYAN R RAO(Assistant Professor),Mr. SUDHIR(Assistant Professor), Mr. MALLYA ANANTH MOHAN(Assistant Professor ),Mr. KARTHIK VAssistant Professor),Mr. HITHESH MENDON(Assistant Professor)"
+Who are the non-teaching staff in the Department of Mechanical Engineering?,"The non-teaching staff includes:
+- Mr. Nagaraj Kalathoor (Foreman)
+-  Mr. Rajashankar A (Senior Lab Instructor)
+- Mr. Srikanth Shettigar (Lab Technician)
+- Mr. Vignesh (Office Assistant Div I.)
+-Mr. Kiran Kumar (Lab Instructor), Mr. Naveen Shettigar(Attendant)"
+"What is the role of 
+Mr. Nagaraj Kalathoor?","
+Mr. Nagaraj Kalathoor is a Foreman in the Mechanical Engineering Department with 12 years 6 months of experience."
+What is the role of  Mr. Rajashankar.A?, Mr. Rajashankar.A  is an Senior Lab Instructor in the Mechanical Engineering Department with 12 years  6 months of experience. 
+What is the role of Mr. Srikanth Shettigar?,Mr. Srikanth Shettigar is Senior Lab Instructor in the Mechanical Engineering Department with 10 years 6 months of experience.
+What is the role of Mr. Prasad Kotyan?,Mr. Prasad Kotyan is a Lab Technician in the Mechanical Engineering Department with 8 years 8 months of experience.
+What is the role of Mr. Vignesh?,Mr. Vignesh is a Lab Technician in the Meechanical Engineering Department with 5 years 6 months of experience.
+What is the role of Mr. Kiran Kumar?,Mr. Kiran Kumar is an Office Assistant Div I. in the Mechanical Engineering Department  with 13 years 6 months experience
+What is the role of Mr. Naveen Shettigar,Mr. Naveen Shettigar is an Attendant in the Mechanical Engineering Department  with 10 years of experience
+Where is the Mechanical Engineering Department located?,"The Mechanical Engineering Department Department is located at Shri Madhwa Vadiraja Institute of Technology and Management, Vishwothama Nagar, Bantakal, Udupi – 574 115, Karnataka, India."
+How can I contact the Mechanical Engineering Department?,"You can contact the Mechanical Engineering Department at :+91 7483031199, +91 7483031200. "
+What is Dr. Thirumaleshwara Bhatt's designation?,Dr. Thirumaleshwara bhatt  is a Professor in the Department of Mechanical Engineering and he is also the Principal of SMVITM
+In which department do Dr. Thirumaleshwara Bhatt work?,"Dr. Thirumaleshwara Bhatt also works as Professor in department of Mechanical Engineering, he is also the Principal of SMVITM"
+What is Dr. Thirumaleshwara Bhatt's phone number,Dr. Thirumaleshwara Bhatt be contacted at 9449330555
+What is Dr. Thirumaleshwara Bhatt's email address?,Dr. Thirumaleshwara Bhatt's email address is principal@sode-edu.in
+Where can i find more information about Dr. Thirumaleshwara Bhatt?,More information about Dr. Thirumaleshwara Bhatt can be found at https://sode-edu.in/ms-reshma/
+What are Dr. Thirumaleshwara Bhatt's educational qualifications? ,"Ms. Reshma has a B.E. in Industrial and Product Engineering, M.Tech. in Advanced Manufacturing and also has Ph.D in Composite Materials"
+What is Dr. Thirumaleshwara Bhatt's area of specialization?,Dr. Thirumaleshwara Bhatt has specialized in Advanced Materials 
+What is Dr. Thirumaleshwara Bhatt's teaching experience?,Dr. Thirumaleshwara Bhatt has 32 year and 11 months of teaching experience.
+What is Dr. Thirumaleshwara Bhatt's industry experience?,n
+What is Dr. Thirumaleshwara Bhatt's research experience?,Dr. Thirumaleshwara Bhatt has 16 years  and 10 months of Research experience.
+What are Dr. Thirumaleshwara Bhatt's areas of interest?,"Dr. Thirumaleshwara Bhatt's areas of interests are Advanced Manufacturing, Composite Materials and Nano materials."
+What is Dr. Sudarshan Rao K's designation?,Dr. Sudarshan Rao K is a Professor in the Department of Mechanical Engineering and he is also the Dean of SMVITM
+In which department do Dr. Sudarshan Rao K Bhatt work?,Dr. Sudarshan Rao K works as the Professor in Department of mechanical Engineering
+What is Dr. Sudarshan Rao's phone number,Dr. Sudarshan Rao K be contacted at 9448252890
+What is Dr. Sudarshan Rao's email address?,Dr. sudarshan Rao K's email address is sudarshan.mech@sode-edu.in
+Where can i find more information about Dr. Sudarshan Rao K?,"More information about Dr. Sudarshan Rao K can be found at https://sode-edu.in/dr-sudarshan-rao-k/
+"
+What are Dr. Sudarshan Rao K's educational qualifications? ,"Dr.Sudarshan Rao K has a B.E. , M.Tech. and Ph.D as well"
+What is Dr. Sudarshan Rao K's area of specialization?,Dr. Sudarshan Rao K has specialized in Composite Materials Tribology Taguchi Analysis Educational Research 
+What is Dr. Sudarshan Rao K's teaching experience?,Dr. Sudarshan Rao K has 28 year and 2 months of teaching experience.
+What is Dr. Sudarshan Rao K's industry experience?,n
+What is Dr. Sudarshan Rao K's research experience?,Dr. Sudarshan Rao K has 16 years  and 4 months of Research experience
+What are Dr. Sudarshan Rao K's areas of interest?,"Dr. Sudarshan Rao K's areas of interests are Fluid Mechanics, Composite Materials, Kinematics of Machines, Operations Research, Product Design, Design Thinking, Engineering Education Research, Engineering Economics"
+What is Dr. Manjunatha S's designation?,Dr. Manjunatha S is a Assistant Professor(Sl. Gr) in the Department of Mechanical Engineering
+In which department do Dr. Manjunatha S Bhatt work?,Dr. Manjunatha S works as the Professor in Department of mechanical Engineering
+What is Dr. Manjunatha S's phone number?,Dr. Manjunatha S be contacted at 7411346375
+What is Dr. Manjunatha S's email address?,Dr. Manjunatha S's email address is manjunath.mech@sode-edu.in
+Where can i find more information about Dr. Manjunatha S?,"More information about Dr. Manjunatha S can be found at https://sode-edu.in/manjunath-s/
+"
+What are Dr. Manjunatha S's educational qualifications? ,"Dr. Manjunatha S has a B.E. , M.Tech. and Ph.D as well"
+What is Dr. Manjunatha S's area of specialization?,has specialized in IC Engines
+What is Dr. Manjunatha S's teaching experience?,"Dr. Manjunatha S has 12 Years 5 Months
+ teaching experience."
+What is Dr. Manjunatha S's industry experience?,Dr. Manjunatha S has 8 years of Industry Experience
+What is Dr. Manjunatha S's research experience?,Dr. Manjunatha S has 9 Years 6 Months of Research experience
+What are Dr. Manjunatha S's areas of interest?,Dr. Manjunatha S's areas of interest is on Alternate Fuels
+What is Dr. H Udaya Prasanna's designation?,Dr. H Udaya Prasanna is a Professor in the Department of Mechanical Engineering.
+In which department do Dr. H Udaya Prasanna Bhatt work?,Dr. H Udaya Prasanna works as the Professor in Department of mechanical Engineering
+What is Dr. H Udaya Prasanna's phone number?,Dr. H Udaya Prasanna be contacted at +91-9480789148
+What is Dr. H Udaya Prasanna's email address?,Dr. H Udaya Prasanna's email address is udaya.mech@sode-edu.in
+Where can i find more information about Dr. H Udaya Prasanna?,"More information about Dr. H Udaya Prasanna can be found at https://sode-edu.in/dr-h-udaya-prasanna/
+"
+What are Dr. H Udaya Prasanna's educational qualifications? ,"Dr. H Udaya Prasanna has a Bachelor of Technology- Metallurgical Engineering- Mysore UniversityMaster of Engineering-Mechanical Engineering- Indian Institute of Science, BangaloreDoctor of Philosophy- Materials and Metallurgical Engineering- NITK-Suratkal-Mangalore"
+What is Dr. H Udaya Prasanna's area of specialization?,"Dr. H Udaya Prasanna has specialized in Material Science, Metallurgical and Mechanical engineering ; Creep and wear of metals- in particular - of steels and steel welds"
+What is Dr. H Udaya Prasanna's teaching experience?,"Dr. H Udaya Prasanna K has 34 Years 1 month
+ teaching experience."
+What is Dr. H Udaya Prasanna's industry experience?,Dr. H Udaya Prasanna has 8 years of Industry Experience
+What is Dr. H Udaya Prasanna's research experience?,Dr. H Udaya Prasanna has 19 Years 4 Months of Research experience
+What are Dr. H Udaya Prasanna's areas of interest?,"Dr. H Udaya Prasanna's areas of interest is on Music, Reading, Swimming, Yoga"
+What is Dr. Raja Yateesh Yadav's designation?,Dr. Raja Yateesh Yadav is Associate Professor & Head of the Department in the Department of Mechanical Engineering
+In which department do Dr. Raja Yateesh Yadav work?,Dr. Raja Yateesh Yadav works as the Professor in Department of mechanical Engineering
+What is Dr. Raja Yateesh Yadav's phone number?,Dr. Raja Yateesh Yadav be contacted at +91 9964281896
+What is Dr. Raja Yateesh Yadav's email address?,Dr. Raja Yateesh Yadav's email address is yateesh.mech@sode-edu.in
+Where can i find more information about Dr. Raja Yateesh Yadav?,More information about Dr. Raja Yateesh Yadav can be found at https://sode-edu.in/dr-raja-yateesh-yadav/
+What are Dr. Raja Yateesh Yadav's educational qualifications? ,Dr. Raja Yateesh Yadav has a B.E (Mechanical Engineering)M.Tech (Thermal Engineering Systems Technology)Ph.D (Mechanical Engineering Sciences)
+What is Dr. Raja Yateesh Yadav's area of specialization?,Dr. Raja Yateesh Yadav has specialized in Thermal Engineering
+What is Dr. Raja Yateesh Yadav's teaching experience?,"Dr. Raja Yateesh Yadav has 14 Years 3 Months
+ teaching experience."
+What is Dr. Raja Yateesh Yadav's industry experience?,not available
+What is Dr. Raja Yateesh Yadav's research experience?,Dr. Raja Yateesh Yadav has 11 Years 1 month of Research experience
+What are Dr. Raja Yateesh Yadav's areas of interest?,"s areas of interest is on Heat transfer through porous media, Renewable Energy Sources,Internal Combustion Engines"
+What is Dr. Madhukara Nayak's designation?,Dr. Madhukara Nayak is a Assistant Professor(Sl. Gr) in the Department of Mechanical Engineering
+In which department do Dr. Madhukara Nayak Bhatt work?,Dr. Madhukara Nayak works as the Professor in Department of mechanical Engineering
+What is Dr. Madhukara Nayak's phone number?,Dr. Madhukara Nayak be contacted at 7411346375
+What is Dr. Madhukara Nayak's email address?,Dr. Madhukara Nayak's email address is madhukara.mech@sode-edu.in
+Where can i find more information about Dr. Madhukara Nayak?,More information about Dr. Madhukara Nayak can be found at https://sode-edu.in/mr-madhukar-nayak/
+What are Dr. Madhukara Nayak's educational qualifications? ,Dr. Madhukara Nayak has B.E. in Industrial ProductionM.Tech. in Engineering ManagementPhD in Mechanical Engineering ScienceMBA in HR
+What is Dr. Madhukara Nayak's area of specialization?,Dr. Madhukara Nayak has specialized in Management Women entrepreneurship Entrepreneurship Operation Research Manufacturing Engineering Advanced Machining Techniques Human Resource Development. Knowledge Management Financial Management Energy Engineering Engineering Graphics
+What is Dr. Madhukara Nayak's teaching experience?,"Dr. Madhukara Nayak has 13 Years 3 Months
+ teaching experience."
+What is Dr. Madhukara Nayak's industry experience?,Dr. Madhukara Nayak has 5 Years of Industry Experience
+What is Dr. Madhukara Nayak's research experience?,not available
+What are Dr. Madhukara Nayak's areas of interest?,Dr. Madhukara Nayak's areas of interests are  Operation Management - Management and Entrepreneurship - Operation Research - Manufacturing Engineering - Advanced Machining Techniques - Human Resource Development. - Knowledge Management - Financial Management - Energy Engineering - Engineering Graphics
+"What is DR. Bharath K. Bhatt
+'s designation?","DR. Bharath K. Bhatt
+ is a Assistant Professor(Sl. Gr) in the Department of Mechanical Engineering"
+"In which department do DR. Bharath K. Bhatt
+ Bhatt work?","DR. Bharath K. Bhatt
+ works as the Professor in Department of mechanical Engineering"
+"What is DR. Bharath K. Bhatt
+'s phone number?","DR. Bharath K. Bhatt
+ be contacted at 91 9141051362"
+"What is DR. Bharath K. Bhatt
+'s email address?","DR. Bharath K. Bhatt
+'s email address is bharath.mech@sode-edu.in"
+"Where can i find more information about DR. Bharath K. Bhatt
+?","More information about DR. Bharath K. Bhatt
+ can be found at https://sode-edu.in/dr-bharath-k-bhat/"
+"What are DR. Bharath K. Bhatt
+'s educational qualifications? ","DR. Bharath K. Bhatt
+ has a B. E. (Mechanical Engineering)M.E (Design Engineering)Ph. D (Biomechanics)"
+"What is DR. Bharath K. Bhatt
+'s area of specialization?",has specialized in IC Engines
+"What is DR. Bharath K. Bhatt
+'s teaching experience?","DR. Bharath K. Bhatt
+ has 3 Years 5 Months
+ teaching experience."
+"What is DR. Bharath K. Bhatt
+'s industry experience?",not available
+"What is DR. Bharath K. Bhatt
+'s research experience?","DR. Bharath K. Bhatt
+ has 9 Years 11 Months of Research experience"
+What are Dr. Bharath K's areas of interest?,"DR. Bharath K. Bhatt
+'s areas of interest are Machine DesignFinite Element MethodsBiomechanic,3D Modelling and analysis"
+What is Mr. Aditya Kudva S's designation?,Mr. Aditya Kudva S is a Assistant Professor(Sl. Gr) in the Department of Mechanical Engineering
+In which department do Mr. Aditya Kudva S work?,Mr. Aditya Kudva S works as the Professor in Department of mechanical Engineering
+What is Mr. Aditya Kudva S's phone number?,Mr. Aditya Kudva S be contacted at 7829868237
+What is Mr. Aditya Kudva S's email address?,"Mr. Aditya Kudva S's email address is kudva.mech@sode-edu.in
+"
+Where can i find more information about Mr. Aditya Kudva S?,More information about Mr. Aditya Kudva Scan be found at https://sode-edu.in/mr-aditya-kudva-s/
+What are Mr. Aditya Kudva S's educational qualifications? ,Mr. Aditya Kudva S has a PhD (pursuing- biodegradable implant materials)M.Tech (Manufacturing Engineering & Technology)B.E (Automobile Engineering)
+What is Mr. Aditya Kudva S's area of specialization?,has specialized in Manufacturing Engineering
+What is Mr. Aditya Kudva S's teaching experience?,"Mr. Aditya Kudva S has 11 Years 9 Months
+ teaching experience."
+What is Mr. Aditya Kudva S's industry experience?,not available
+What is Mr. Aditya Kudva S's research experience?,not available
+What are Mr. Aditya Kudva S's areas of interest?,Mr. Aditya Kudva S's areas of interest are on Surface EngineeringSevere Plastic DeformationBio implant materials
+What is Mr. Ravinarayana R Rao's designation?,Mr. Ravinarayana R Rao is a Assistant Professor(Slr.) in the Department of Mechanical Engineering
+In which department do Mr. Ravinarayana R Rao work?,Mr. Ravinarayana R Rao works as the Professor in Department of mechanical Engineering
+What is Mr. Ravinarayana R Rao's phone number?,Mr. Ravinarayana R Rao be contacted at 9481939824
+What is Mr. Ravinarayana R Rao's email address? ,"Mr. Ravinarayana R Rao's email address is ravinarayan.mech@sode-edu.in
+"
+Where can i find more information about Mr. Ravinarayana R Rao?,"More information about Mr. Ravinarayana R Rao can be found at https://sode-edu.in/mr-ravinarayan-r-rao/
+
+"
+What are Mr. Ravinarayana R Rao's educational qualifications? ,Mr. Ravinarayana R has a BE in Mechanical EngineeringMTech in Design Engineerring
+What is Mr. Ravinarayana R Rao's area of specialization?,has specialized in Design Engineering
+What is Mr. Ravinarayana R Rao's teaching experience?,Mr. Ravinarayana R Rao has 15 Years 4 Months teaching experience.
+What is Mr. Ravinarayana R Rao's industry experience?,not available
+What is Mr. Ravinarayana R Rao's research experience?,not available
+What are Mr. Ravinarayana R Rao's areas of interest?,"Mr. Ravinarayana R Rao's areas of interest is on Finite element analysis,Optimization and engineering design, Nano composites, Finite element analysis."
+What is Mr. Sudhir's designation?,Mr. Sudhir is a Assistant Professor(Sr.) in the Department of Mechanical Engineering
+In which department do Mr. Sudhir Bhatt work?,Mr. Sudhir works as the Professor in Department of mechanical Engineering
+What is Mr. Sudhir's phone number?,Mr. Sudhir be contacted at 0820-2589182
+What is Mr. Sudhir's email address?,Mr. Sudhir's email address is sudhir.mech@sode-edu.in
+Where can i find more information about Mr. Sudhir?,"More information about Mr. Sudhir can be found at https://sode-edu.in/mr-sudhir/
+"
+What are Mr. Sudhir's educational qualifications? ,"Mr. Sudhir has a M.Tech in Manufacturing Engineering TechnologyB.E. in Mechanical Engineering,  PhD (Pursuing)"
+What is Mr. Sudhir's area of specialization?,has specialized in Manufacturing Engineering
+What isMr. Sudhir's teaching experience?,"Mr. Sudhir S has 12 Years 4 Months
+ teaching experience."
+What is Mr. Sudhir's industry experience?,Mr. Sudhir has 1.5 years of Industry Experience
+What is Mr. Sudhir's research experience?,not available
+What are Mr. Sudhir's areas of interest?,"Mr. Sudhir's areas of interest are on Operations Research & Management MCDM, Statistical Methods, Supply Chain Management"
+What is Mr. Mallya Ananth Mohan's designation?,Mr. Mallya Ananth Mohan is a Assistant Professor(Sr.) in the Department of Mechanical Engineering
+In which department do Mr. Mallya Ananth Mohan Bhatt work?,Mr. Mallya Ananth Mohan works as the Professor in Department of mechanical Engineering
+What is Mr. Mallya Ananth Mohan's phone number?,"Mr. Mallya Ananth Mohan be contacted at 0820 2589183
+"
+What is Mr. Mallya Ananth Mohan's email address?,"Mr. Mallya Ananth Mohan's email address is ammallya.mech@sode-edu.in
+"
+Where can i find more information about Mr. Mallya Ananth Mohan?,"More information about Mr. Mallya Ananth Mohan can be found at https://sode-edu.in/mr-mallya-ananth-mohan/
+"
+What are Mr. Mallya Ananth Mohan's educational qualifications? ,"Mr. Mallya Ananth Mohan has a BE, Mechanical EngineeringMTech, Environmental EngineeringPursuing PhD in the area of Engine Cooling"
+What is Mr. Mallya Ananth Mohan's area of specialization?,not available
+What is Mr. Mallya Ananth Mohan's teaching experience?,"Mr. Mallya Ananth Mohan has 13 Years 4 Months
+ teaching experience."
+What is Mr. Mallya Ananth Mohan's industry experience?,Mr. Mallya Ananth Mohan has 1.5 Years of Industry Experience
+What is Mr. Mallya Ananth Mohan's research experience?,"Mr. Mallya Ananth Mohan has  of 6 Years 7 Months
+ Research experience"
+What are Mr. Mallya Ananth Mohan's areas of interest?,"Mr. Mallya Ananth Mohan's areas of interests are on Automobile engines, turbochargingEngine cooling optimization"
+What is Mr. Karthik V's designation?,Mr. Karthik Vis a Assistant Professor(Sr.) in the Department of Mechanical Engineering
+In which department do Mr. Karthik V work?,Mr. Karthik V works as the Professor in Department of mechanical Engineering
+What is Mr. Karthik V's phone number?,Mr. Karthik V be contacted at 8970941008
+What is Mr. Karthik V's email address?,"Mr. Karthik V's email address is karthik.mech@sode-edu.in
+"
+Where can i find more information about Mr. Karthik V?,"More information about Mr. Karthik V can be found at https://sode-edu.in/mr-karthik-v/
+"
+What are Mr. Karthik V's educational qualifications? ,"Mr. Karthik V has Master of Technology, Bachelor of Engineering"
+What is Mr. Karthik V's area of specialization?,Mr. Karthik V is specialised on Computer Integrated Manufacturing
+What is Mr. Karthik V's teaching experience?,"Mr. Karthik V  has 9 Years 4 Months
+ teaching experience."
+What is Mr. Karthik V's industry experience?,not available
+What is Mr. Karthik V's research experience?,"Mr. Karthik V has  of 10 months of 
+ Research experience"
+What are Mr. Karthik V's areas of interest?,"Mr. Karthik V's areas of interests are on Computer Integrated Manufacturing, Manufacturing/Production Technology"
+What is Mr. Hithesh Mendon's designation?,Mr. Hithesh Mendon is a Assistant Professor in the Department of Mechanical Engineering
+In which department do Mr. Hithesh Mendon work?,Mr. Hithesh Mendon works as the Professor in Department of mechanical Engineering
+What is Mr. Hithesh Mendon's phone number?,Mr. Hithesh Mendon be contacted at +91 6360291639
+What is Mr. Hithesh Mendon's email address?,"Mr. Hithesh Mendon's email address is hithesh.mech@sode-edu.in
+"
+Where can i find more information about Mr. Hithesh Mendon?,"More information about Mr. Hithesh Mendon can be found at https://sode-edu.in/mr-hithesh-mendon/
+"
+What are Mr. Hithesh Mendon's educational qualifications? ,Mr. Hithesh Mendon has B.E (Mechanical Engineering)M.Tech (Industrial Automation & Robotics)
+What is Mr. Hithesh Mendon's area of specialization?,Mr. Hithesh Mendonis specialised on Automation & Robotics
+What is Mr. Hithesh Mendon's teaching experience?,"Mr. Hithesh Mendon has 1 Years 2 Months
+ teaching experience."
+What is Mr. Hithesh Mendon's industry experience?,Mr. Hithesh Mendon has 2 years of Industry Experience
+What is Mr. Hithesh Mendon's research experience?,not available
+What are Mr. Hithesh Mendon's areas of interest?,not available
+What is the fee for CSE students with 95% or above in PCM?,"Rs. 2,00,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for CSE students with 75%-94.99% in PCM?,"Rs. 2,20,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for CSE students with less than 75% in PCM?,"Rs. 2,50,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for AI & DS students with 95% or above?,"Rs. 1,80,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for AI & DS students with 75%-94.99%?,"Rs. 2,00,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for AI & DS students with less than 75%?,"Rs. 2,20,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for AI & ML students with more than 75%?,"Rs. 1,20,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for AI & ML students with less than 75%?,"Rs. 1,40,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for ECE students with more than 75%?,"Rs. 75,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the fee for ECE students with less than 75%?,"Rs. 80,000 (Management Fee), Rs. 10,610 (University Registration Fee), Rs. 10,000 (Refundable Caution Deposit)."
+What is the MBA fee excluding uniform and laptop fees?,"Rs. 1,50,000 (Management Fee), Rs. 10,810 (University Registration Fee), excluding Rs. 6,000 (Uniform Fee) and Rs. 35,000 (Laptop Fee)."
+What is the room rent and maintenance fee for 2 sharing hostel room?,"₹43,500.00"
+What is the room rent and maintenance fee for 3 sharing hostel room?,"₹38,500.00"
+What are the admission charges hostel?,₹500.00 for both 2 and 3 sharing
+What is the refundable deposit in hostel?,"₹5,000.00 for both 2 and 3 sharing"
+What is the total fee for 2 sharing hostel room?,"₹49,000.00"
+What is the total fee for 3 sharing hostel room?,"₹44,000.00"
+What are the approximate mess charges in hostel?,"₹3,900.00 per month"
+What is the contact number for hostel inquiries?,"0820-2589182, 183"
+What is the fee for ID cards and library cards?,₹400.00
+What is the application and admission fee?,"₹1,500.00"
+What is the fee for branch-specific and student association activities?,"₹3,000.00"
+What is the fee for college annual day and inter-collegiate programs?,"₹1,000.00"
+What is the fee for the college newsletter or magazine?,₹500.00
+What is the fee for technical journals, library books, and periodicals?,"₹3,000.00"
+What is the fee for extracurricular activities, farewell, and other celebrations?,"₹3,000.00"
+What is the fee for industrial visits, experts, and invited talks?,"₹1,000.00"
+What is the fee for internet and multimedia facilities/Wi-Fi?,"₹2,000.00"
+What is the fee for ISTE membership and chapter activities?,₹800.00
+What is the fee for laboratory consumables and components?,"₹3,500.00"
+What is the fee for medical aid, insurance, and counseling?,₹900.00
+What is the fee for safety, security measures, and campus upkeep?,"₹1,300.00"
+What is the fee for sports and games?,"₹1,300.00"
+What is the fee for the syllabus book or handbook?,₹150.00
+What is the fee for blue books, stationery, and internal exams?,₹750.00
+What is the fee for the parent-teacher meeting?,₹500.00
+What is the total amount of other fees?,"₹20,000.00"
+What is the total amount of other fees?,₹20,000.00
+When does the semester for the second-semester students end?,VTU Theory Exams for the second semester start on July 15, 2024.
+When does the third-semester semester begin?,August 19 2024.
+When is Library Day celebrated?,August 12 2024.
+When does the fifth and seventh semester begin?,September 9 2024.
+What are the dates for the National Mathematics Day event?,December 22 2024.
+When is the International Conference scheduled?,December 20 2024.
+When is Graduation Day?,September 22 2024.
+When is the Summative Feedback and Course End Survey for the sixth semester scheduled?,July 22 2024.
+What are the dates for the third internal assessment test III-IA Test for the fourth semester?,July 31 to August 2 2024.
+When is the result analysis meeting for the first semester?,December 14 2024.
+When does formative feedback take place?,October 28 2024.
+When are internal assessment tests scheduled for odd-semester students?,I-IA Test III Sem: October 7–9 2024. I-IA Test I V VII Sem: October 21–23 2024. II-IA Test III V VII Sem: November 18–20 2024. III-IA Test I III V VII Sem: December 16–18 2024.
+When is Independence Day celebrated?,August 15, 2024.
+Can you provide the holiday schedule for the year 2024?,Ganesha Chaturthi: September 7 2024. Gandhi Jayanti: October 2 2024. Maha Navami: October 11 2024. Vijaya Dashami: October 12 2024. Kannada Rajyothsava: November 1 2024. Deepavali: November 2 2024. Christmas: December 25 2024.
+When are the VTU practical exams for the sixth semester?,August 8 2024.
+When are the VTU practical exams for odd-semester students?,December 23 2024.
+When does the VTU theory examination for the fourth semester start?,August 21 2024.
+When is the Parent-Teachers Meeting scheduled?,November 9 2024.
+What are the major institutional events?,Induction Program for I Year: September 5 2024. Engineers' Day: September 15 2024. IEEE Day: October 1 2024. National Innovation Day: October 15 2024.
+When does the semester for fourth sixth and eighth semesters begin?,February 2 2025.
+When does the semester for second-semester students begin?,March 3 2025.
+When is the last working day for first-semester students?,January 18 2025.
+When is the VTU practical examination for first-semester students?,January 20 2025.
+When is the VTU theory examination for first-semester students?,January 30 2025.
+When is the first-semester feedback and course end survey scheduled?,January 7 2025.
+What are the dates for the III-IA Tests for first-semester students?,January 9–11 2025.
+Can you provide the holiday schedule for the year 2025?,Makara Sankranti: January 14 2025. Republic Day: January 26 2025. Maha Shivaratri: February 26 2025. Chandramana Ugadi: March 30 2025. Kutub-E-Ramzan: March 31 2025. Good Friday: April 18 2025. Labour Day: May 1 2025. Bakrid: June 7 2025.
+When are the VTU theory exams for odd semesters III V VII?,January 6 2025.

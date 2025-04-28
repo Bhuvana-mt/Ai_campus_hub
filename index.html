@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI Campus Assistant - Your virtual guide for campus-related queries.">
+    <meta property="og:title" content="AI Campus Assistant">
+    <meta property="og:description" content="Your virtual guide for campus-related queries.">
+    <link rel="icon" href="static/favicon.ico" type="image/x-icon">
+    <title>AI Campus Assistant</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- Header Section -->
+        <div class="chat-header">
+            <h3>AI CampusHub</h3>
+        </div>
+
+        <!-- Chat Messages Section -->
+        <div class="chat-box" id="chat-box">
+            <!-- Messages will be dynamically added here -->
+        </div>
+
+        <!-- Suggestions Section -->
+        <div class="suggestions-container">
+            <h4>Suggestions:</h4>
+            <div id="suggestions" class="suggestions">
+                <!-- Related question suggestions will be dynamically added here -->
+            </div>
+        </div>
+
+        <!-- Input Section -->
+        <div class="chat-input">
+            <input type="text" id="user-input" placeholder="Ask me anything..." aria-label="Chat input field" />
+            <button id="send-btn" aria-label="Send button">Send</button>
+        </div>
+    </div>
+    <noscript>
+        JavaScript is required to use this assistant. Please enable JavaScript in your browser settings.
+    </noscript>
+    <script src="static/script.js"></script>
+</body>
+</html>
